@@ -1,6 +1,6 @@
 <template>
   <div class="contents">
-    <ul>
+    <ul @click="onCheckListData">
       <li v-for="item in listData" :key="item.id">
         <gallery-list-item :item-data="item"/>
       </li>
@@ -31,7 +31,9 @@ export default {
     }
   },
   methods: {
-
+    onCheckListData() {
+      console.log('itemData 확인 >>>', this.listData)
+    }
   }
 }
 </script>
