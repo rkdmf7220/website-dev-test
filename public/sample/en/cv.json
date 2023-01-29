@@ -16,19 +16,19 @@
       {
         "year": "2022",
         "text": [
-          "assemblogy: compose and combine (CICA Museum | Czong Institute for Contemporary Art, Gimpo, Korea)"
+          "Forthcoming | Assemblogy: compose and combine (CICA Museum | Czong Institute for Contemporary Art, Gimpo)"
         ]
       },
       {
         "year": "2021",
         "text": [
-          "Dream Land: Color (Gwangmyeong Civic Center, Gwangmyeong, Korea)"
+          "Dream Land: Color (Gwangmyeong Civic Center, Gwangmyeong)"
         ]
       },
       {
         "year": "2020",
         "text": [
-          "Dream Land (H.art.bridge, Seoul, Korea)"
+          "Dream Land (H.art.bridge, Seoul)"
         ]
       }
     ]
@@ -39,57 +39,56 @@
       {
         "year": "2023",
         "text": [
-          "Portrait (CICA Museum, Gimpo, Korea)"
+          "Forthcoming | Portrait 2023 (CICA Museum, Gimpo)"
         ]
       },
       {
         "year": "2022",
         "text": [
-          "Vibrating Birds and Handwritten Letter (Art Sonje Center·S.A.P, Seoul, Korea, Online)",
-          "VENOMOLD (Gallery OOOJH, Seoul, Korea)"
+          "Forthcoming | Korean Society of Typography Exhibition 16 (TBD, Online)",
+          "Forthcoming | Observer: Sculpture (Gallery OOOJH, Seoul)"
         ]
       },
       {
         "year": "2021",
         "text": [
-          "Singing word, singing text (COEX, Seoul, Korea, Metaverse online)",
-          "Relativity Circuit: Sustainability Report (Dongduk art gallery, Seoul, Korea)",
-          "Over the structures (CICA Museum, Gimpo, Korea)"
+          "Singing word, singing text | Korean Society of Typography Exhibition 15 (COEX Hall C, Seoul, Metaverse online)",
+          "Relativity Circuit: Sustainability Report (Dongduk art gallery, Seoul)",
+          "Over the structures 2021 (CICA Museum, Gimpo)"
         ]
       },
       {
         "year": "2020",
         "text": [
-          "Contactless (Culture Station Seoul 284 RTO, Seoul, Korea, Online)"
+          "Contactless | Korean Society of Typography Exhibition 14 (Culture Station Seoul 284 RTO, Seoul, Online)"
         ]
       },
       {
         "year": "2019",
         "text": [
-          "Knowing (MJ Gallery, Seoul, Korea)",
-          "bauhaus mirror (DDP, Seoul, Korea)",
-          "The 55th Gyeonggi art contest (Gyeonggi art center gallery, Suwon, Korea)",
-          "Watch the world through the art (Gangnam-gu office, Seoul, Korea)"
+          "Knowing (MJ Gallery, Seoul)",
+          "bauhaus mirror (DDP, Seoul)",
+          "The 55th Gyeonggi art contest (Gyeonggi art center gallery, Suwon)",
+          "Watch the world through the art (Gangnam-gu office, Seoul)"
         ]
       },
       {
         "year": "2018",
         "text": [
-          "International young artist association contest (Gallery We, Seoul, Korea)"
+          "International young artist association contest (Gallery We, Seoul)"
         ]
       },
       {
         "year": "2016",
         "text": [
-          "Rebellion of brick ‘I AM ROBOT’ (RoboPark, Bucheon, Korea)",
-          "Brick Convention (Hyundai Departmentstore, Pangyo, Korea)",
-          "Seoul Craft Fair (DDP, Seoul, Korea)"
+          "Rebellion of brick ‘I AM ROBOT’ (RoboPark, Bucheon)",
+          "Brick Convention (Hyundai Departmentstore, Pangyo)"
         ]
       },
       {
         "year": "2015",
         "text": [
-          "Brick Convention (Hyundai Departmentstore, Pangyo, Korea)"
+          "Brick Convention (Hyundai Departmentstore, Pangyo)"
         ]
       }
     ]
@@ -100,13 +99,19 @@
       {
         "year": "2018",
         "text": [
-          "Miami Scope Art Fair (Scope art fair, Miami, USA)"
+          "Miami Scope Art Fair (Scope art fair, Miami)"
+        ]
+      },
+      {
+        "year": "2016",
+        "text": [      
+          "DDP Craft exposition (DDP, Seoul)"
         ]
       }
     ]
   },
   "prizeArchive": {
-    "title": "Prizes and Grants",
+    "title": "Prize and Support",
     "items": [
       {
         "year": "2021",
@@ -153,29 +158,35 @@
         "text": [
           "Korean Society of Typography | Regular Member"
         ]
+      },
+      {
+        "year": "2019",
+        "text": [
+          "Extypo (experimental typography group) | President"
+        ]
+      },
+      {
+        "year": "2018 - 2019",
+        "text": [
+          "IYAA (International Young Artist Association) | Visual Artist"
+        ]
       }
     ]
   },
-  "references": {
-    "title": "References",
+  "introduction": {
+    "title": "Introduction",
     "items": [
-      {
-        "year": "2022",
-        "text": [
-          "Workroom Specter 『Vibrating Birds and Handwritten Letter』| Exhibition catalogue"
-        ]
-      },
       {
         "year": "2021",
         "text": [
           "Art Continue 『2022 Nominated Artists in South Korea』",
-          "CA BOOKS no.254 『Contactless』"
+          "CA BOOKS 『#254 Contactless』"
         ]
       },
       {
         "year": "2017",
         "text": [
-          "Creator no.9 『 IDEA OF CREATION』| Interview"
+          "Creator 『#9 IDEA OF CREATION』 (Interview)"
         ]
       }
     ]
