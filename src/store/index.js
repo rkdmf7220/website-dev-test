@@ -37,6 +37,7 @@ export default createStore({
          */
         setLang({commit, state, dispatch}, lang) {
             if(lang !== state.lang) {
+                console.log('setLang 언어변경 확인')
                 commit('lang', lang);
                 dispatch('loadWorksList');
                 dispatch('loadCv');
@@ -48,9 +49,11 @@ export default createStore({
             return axios.get("../sample/" + state.lang + "/data-result.json")
                 .then(response => {
                     if (response.statusText === "OK") {
+                        console.log('loadWorksList 성공');
                         commit('worksList', response.data)
                     } else {
                         // TODO: error handling.
+                        console.log('loadWorksList 실패');
                     }
                 }).catch(error => {
                 console.log('error', error);
