@@ -1,6 +1,42 @@
 [
   {
     "type": "sculpture",
+    "id": "assemble-sculpture2",
+    "title": "조립 조각 221116",
+    "year": 2022,
+    "thumb": "img/sculpture/assemblesculpture2/01.jpg",
+    "imgs": [
+      "img/sculpture/assemblesculpture2/01.jpg",
+      "img/sculpture/assemblesculpture2/02.jpg"
+    ],
+    "caption": "2022, 판넬에 아크릴, 채색된 레고 블록, 가변크기 (각 50 x 50 x 94cm x 4개)"
+  },
+  {
+    "type": "sculpture",
+    "id": "assemble-sculpture",
+    "title": "조립 조각",
+    "year": 2022,
+    "thumb": "img/sculpture/assemblesculpture/01.jpg",
+    "imgs": [
+      "img/sculpture/assemblesculpture/01.jpg",
+      "img/sculpture/assemblesculpture/02.jpg",
+      "img/sculpture/assemblesculpture/03.jpg"
+    ],
+    "caption": "2022, 판넬에 아크릴, 채색된 레고 블록, 가변크기 (각 50 x 50 x 94cm x 4개)"
+  },
+    {
+      "type": "sculpture",
+      "id": "composition-6",
+      "title": "구성 6 (분리 - 조합)",
+      "year": 2022,
+      "thumb": "img/sculpture/composition-6/01.jpg",
+      "imgs": [
+        "img/sculpture/composition-6/01.jpg"
+      ],
+      "caption": "2022, 판넬에 아크릴, 채색된 레고 블록, 35 x 35 x 20cm"
+    },
+  {
+    "type": "sculpture",
     "id": "lego-buddha",
     "title": "순환 (레고 부처)",
     "year": 2021,
@@ -11,7 +47,7 @@
       "img/sculpture/buddha/03.jpg",
       "img/sculpture/buddha/04.jpg"
     ],
-    "caption": "2021, 복합매체, 가변크기 (430 x 400 x 140cm)",
+    "caption": "2021, 캔버스에 실크스크린, TV, 레고 블록, 가변크기 (430 x 400 x 140cm)",
     "text": "색의 순환과 부처의 확장.\n표정과 형태가 명확히 보이지 않는, 무한히 확장하며 수렴하는 무한(無限)의 흰색 부처가 투명한 부처를 바라본다.\n프리즘의 역할을 하는 투명한 부처의 얼굴을 지나 흰색 부처는 디지털의 원색인 RGB (빨강, 초록, 파랑)의 부처와 아날로그의 원색인 CMYK(시안, 마젠타, 노랑, 검정)의 부처로 확장한다.\n그렇게 프리즘으로 투과된 색은 무한의 부처로 다시 순환한다.\n모든 색은 순환하며 모든 색을 구현할 수 있으며 부처의 형태를 통해 확장되며 수렴된다.\n시작과 끝이 존재하지 않으며 끊임없이 확장하고 수렴하는 부처는 색으로 순환되는 모래시계 구조로 4-3-1-∞(무한)으로 순환한다.\n색으로 분리된 부처는 선을 상징하고, 프리즘으로 수렴되는 투명의 부처는 점을 상징하며, 분리된 선의 부처가 모인 무한의 색을 가진 다(多)부처는 면을 상징하여 점•선•면의 구조로 이루어져 있다."
   },
   {
@@ -19,7 +55,7 @@
     "id": "194",
     "title": "194",
     "year": 2020,
-    "caption": "2020, 아크릴에 레고 블록, 86.6 x 65 cm",
+    "caption": "2020, 아크릴에 레고 블록, 86.6 x 65cm",
     "thumb": "img/sculpture/194/01.jpg",
     "imgs": [
       "img/sculpture/194/01.jpg",
@@ -40,7 +76,7 @@
     "title": "꼽추",
     "year": 2020,
     "caption": "2020, 레고 블록, 22.7 x 3 x 42.5cm",
-    "thumb": "img/sculpture/hunchback/01.jpg",
+    "thumb": "img/sculpture/hunchback/04.jpg",
     "imgs": [
       "img/sculpture/hunchback/01.jpg",
       "img/sculpture/hunchback/02.jpg",
@@ -116,6 +152,92 @@
   },
   {
     "type": "painting",
+    "id": "untitled",
+    "title": "무제",
+    "year": 2022,
+    "caption": "2022, 캔버스에 아크릴 및 채색된 레고, 72.7 x 60.6cm x 2개",
+    "thumb": "img/painting/untitled/01.jpg",
+    "imgs": [
+      "img/painting/untitled/01.jpg",
+      "img/painting/untitled/02.jpg"
+    ]
+  },
+  {
+    "type": "painting",
+    "id": "harmony",
+    "title": "조화",
+    "year": 2022,
+    "caption": "2022, 캔버스에 아크릴 및 레고, 20 x 20 cm",
+    "thumb": "img/painting/harmony/01.jpg",
+    "imgs": [
+      "img/painting/harmony/01.jpg",
+      "img/painting/harmony/02.jpg",
+      "img/painting/harmony/03.jpg",
+      "img/painting/harmony/04.jpg"
+    ]
+  },
+  {
+    "type": "painting",
+    "id": "composition5",
+    "title": "구성 5 (분리 – 조합)",
+    "year": 2022,
+    "caption": "2022, 캔버스에 아크릴, 35cm x 35cm",
+    "thumb": "img/painting/composition-5/01.jpg",
+    "imgs": [
+      "img/painting/composition-5/01.jpg",
+      "img/painting/composition-1/02.jpg"
+    ]
+  },
+  {
+    "type": "painting",
+    "id": "assembly-2",
+    "title": "조립",
+    "year": 2022,
+    "caption": "2022, 캔버스에 아크릴 및 채색된 레고, 72.7 x 60.6 cm",
+    "thumb": "img/painting/assembly-2/01.jpg",
+    "imgs": [
+      "img/painting/assembly-2/01.jpg"
+    ]
+  },
+  {
+    "type": "painting",
+    "id": "assembly-1",
+    "title": "조립",
+    "year": 2022,
+    "caption": "2022, 캔버스에 아크릴 및 채색된 레고, 160 x 132 cm",
+    "thumb": "img/painting/assembly-1/01.jpg",
+    "imgs": [
+      "img/painting/assembly-1/01.jpg",
+      "img/painting/assembly-1/02.jpg",
+      "img/painting/assembly-1/03.jpg"
+    ]
+  },
+  {
+    "type": "painting",
+    "id": "composition-2-1",
+    "title": "구성 2-1",
+    "year": 2022,
+    "caption": "2022, 캔버스에 아크릴, 80.3cm x 80.3cm",
+    "thumb": "img/painting/composition-2-1/01.jpg",
+    "imgs": [
+      "img/painting/composition-2-1/01.jpg",
+      "img/painting/composition-2-1/02.jpg"
+    ]
+  },
+  {
+    "type": "painting",
+    "id": "assemble-landscape",
+    "title": "조립 산수",
+    "year": 2022,
+    "caption": "2022, 캔버스에 아크릴, 가변크기 (각 37.9 x 37.9cm)",
+    "thumb": "img/painting/assemblelandscape/01.jpg",
+    "imgs": [
+      "img/painting/assemblelandscape/01.jpg",
+      "img/painting/assemblelandscape/02.jpg"
+    ]
+  },
+  {
+    "type": "painting",
     "id": "block211128",
     "title": "블록 211128",
     "year": 2021,
@@ -136,6 +258,7 @@
     "caption": "2021, 캔버스에 아크릴, 80.3cm x 80.3cm",
     "thumb": "img/painting/assemble/thumb.jpg",
     "imgs": [
+      "img/painting/assemble/thumb.jpg",
       "img/painting/assemble/01.jpg",
       "img/painting/assemble/02.jpg",
       "img/painting/assemble/03.jpg",
@@ -178,8 +301,7 @@
     "thumb": "img/painting/composition-4/01.jpg",
     "imgs": [
       "img/painting/composition-4/01.jpg",
-      "img/painting/composition-4/02.jpg",
-      "img/painting/composition-4/03.jpg"
+      "img/painting/composition-1/02.jpg"
     ],
     "text": "레고 블록이 입체적인 형태가 아닌 평면적인 회화로서 재구성되었을 때, 그 가능성과 근원성을 탐구한 작품에서 더 변주한 작품이다.\n레고 블록의 한 조각이 평면회화로 재구성이 되고, 그 한 조각은 다시 규격화된 양식에서 벗어나 회화의 기본요소인 점, 선, 면으로 해체되어 비구상적인(nonfigurative) 새로운 이상향을 도출해낸다.\n각기 다른 모습과 성질을 내포하고 있지만 결국에는 한 맥락 속에서 하나의 움직임으로서 톱니바퀴처럼 맞물려 나아간다.\n그렇기 때문에 어느 것이 먼저 탄생하여 분리(Division)가 되었는지 조합(Unity)이 되었는지 구분이 안가는 초현실적인 구조가 내포되어 있다."
   },
@@ -192,8 +314,7 @@
     "thumb": "img/painting/composition-3/01.jpg",
     "imgs": [
       "img/painting/composition-3/01.jpg",
-      "img/painting/composition-3/02.jpg",
-      "img/painting/composition-3/03.jpg"
+      "img/painting/composition-1/02.jpg"
     ],
     "text": "레고 블록이 입체적인 형태가 아닌 평면적인 회화로서 재구성되었을 때, 그 가능성과 근원성을 탐구한 작품에서 더 변주한 작품이다.\n레고 블록의 한 조각이 평면회화로 재구성이 되고, 그 한 조각은 다시 규격화된 양식에서 벗어나 회화의 기본요소인 점, 선, 면으로 해체되어 비구상적인(nonfigurative) 새로운 이상향을 도출해낸다.\n각기 다른 모습과 성질을 내포하고 있지만 결국에는 한 맥락 속에서 하나의 움직임으로서 톱니바퀴처럼 맞물려 나아간다.\n그렇기 때문에 어느 것이 먼저 탄생하여 분리(Division)가 되었는지 조합(Unity)이 되었는지 구분이 안가는 초현실적인 구조가 내포되어 있다."
   },
@@ -206,8 +327,7 @@
     "thumb": "img/painting/composition-2/01.jpg",
     "imgs": [
       "img/painting/composition-2/01.jpg",
-      "img/painting/composition-2/02.jpg",
-      "img/painting/composition-2/03.jpg"
+      "img/painting/composition-1/02.jpg"
     ],
     "text": "레고 블록이 입체적인 형태가 아닌 평면적인 회화로서 재구성되었을 때, 그 가능성과 근원성을 탐구한 작품에서 더 변주한 작품이다.\n레고 블록의 한 조각이 평면회화로 재구성이 되고, 그 한 조각은 다시 규격화된 양식에서 벗어나 회화의 기본요소인 점, 선, 면으로 해체되어 비구상적인(nonfigurative) 새로운 이상향을 도출해낸다.\n각기 다른 모습과 성질을 내포하고 있지만 결국에는 한 맥락 속에서 하나의 움직임으로서 톱니바퀴처럼 맞물려 나아간다.\n그렇기 때문에 어느 것이 먼저 탄생하여 분리(Division)가 되었는지 조합(Unity)이 되었는지 구분이 안가는 초현실적인 구조가 내포되어 있다."
   },
@@ -220,9 +340,7 @@
     "thumb": "img/painting/composition-1/01.jpg",
     "imgs": [
       "img/painting/composition-1/01.jpg",
-      "img/painting/composition-1/02.jpg",
-      "img/painting/composition-1/03.jpg",
-      "img/painting/composition-1/04.jpg"
+      "img/painting/composition-1/02.jpg"
     ],
     "text": "레고 블록이 입체적인 형태가 아닌 평면적인 회화로서 재구성되었을 때, 그 가능성과 근원성을 탐구한 작품에서 더 변주한 작품이다.\n레고 블록의 한 조각이 평면회화로 재구성이 되고, 그 한 조각은 다시 규격화된 양식에서 벗어나 회화의 기본요소인 점, 선, 면으로 해체되어 비구상적인(nonfigurative) 새로운 이상향을 도출해낸다.\n각기 다른 모습과 성질을 내포하고 있지만 결국에는 한 맥락 속에서 하나의 움직임으로서 톱니바퀴처럼 맞물려 나아간다.\n그렇기 때문에 어느 것이 먼저 탄생하여 분리(Division)가 되었는지 조합(Unity)이 되었는지 구분이 안가는 초현실적인 구조가 내포되어 있다."
   },
@@ -236,11 +354,20 @@
     "imgs": [
       "img/painting/block201015/01.jpg",
       "img/painting/block201015/02.jpg",
-      "img/painting/block201015/03.jpg",
-      "img/painting/block201015/04.jpg",
-      "img/painting/block201015/05.jpg"
+      "img/painting/block201015/03.jpg"
     ],
     "text": "레고 블록이 입체적으로 조립되는 것이 아닌 평면적인 회화로서 재구성되어 조립되었을 때, 그 가능성과 근원성을 탐구한 작품이다.\n같은 모습의 한정된 색깔을 가져도 구성으로 그 모습이 변모되는, 즉 형태의 가능성이 무한하다.\n각기 다른 색과 사이즈를 가진 레고 블록을 이용하여 하나가 된 모습을 나타냈다.\n이것이 레고의 특성인 ‘조립’임을 나타내는 부분이다.\n각각의 형태는 면으로서 기하학적이며 본질의 속성을 담아내며 구체예술(concrete art)에 가까운 형태를 표현하고 있다."
+  },
+  {
+    "type": "painting",
+    "id": "blueportrait",
+    "title": "푸른 초상",
+    "year": 2019,
+    "caption": "2019, 캔버스에 레고 및 아크릴, 65.1 x 50cm",
+    "thumb": "img/painting/blueportrait/01.jpg",
+    "imgs": [
+      "img/painting/blueportrait/01.jpg"
+    ]
   },
   {
     "type": "painting",
@@ -304,7 +431,6 @@
     "imgs": [
       "img/typography/buddha/01.jpg",
       "img/typography/buddha/02.jpg",
-      "img/typography/buddha/03.jpg",
       "img/typography/buddha/04.jpg",
       "img/typography/buddha/05.jpg"
     ],
@@ -433,11 +559,11 @@
     "title": "한국에서의 바우하우스란 무엇인가",
     "year": 2019,
     "caption": "2019, 단채널 비디오, 1920 x 1080 Frame, 9.5, 9, 10.5 min",
-    "thumb": "img/typography/bauhaus/01.png",
+    "thumb": "img/typography/bauhaus/01.jpg",
     "imgs": [
-      "img/typography/bauhaus/01.png",
-      "img/typography/bauhaus/02.png",
-      "img/typography/bauhaus/03.png",
+      "img/typography/bauhaus/01.jpg",
+      "img/typography/bauhaus/02.jpg",
+      "img/typography/bauhaus/03.jpg",
       "img/typography/bauhaus/04.jpg",
       "img/typography/bauhaus/05.jpg",
       "img/typography/bauhaus/06.jpg"
@@ -446,33 +572,94 @@
   },
   {
     "type": "archive",
-    "id": "22-A-vibrating bird-and-a-handwritten-letter",
-    "title": "진동새와 손편지 | 단체전",
-    "year": 2022,
-    "caption": "미정",
+    "id": "23-portrait",
+    "title": "Portrait | 단체전",
+    "year": 2023,
+    "caption": "2022년 12월 28일 - 2023년 1월 15일",
     "info": [
       {
         "title": "장소",
-        "text": "온라인·오프라인:《Ob/Scene Festival》미정"
+        "text": "CICA 미술관"
+      },
+      {
+        "title": "주최·주관",
+        "text": "CICA 미술관"
+      }
+    ],
+    "thumb":"img/archive/2023-portrait/thumb.jpg",
+    "imgs": [
+      "img/archive/2023-portrait/thumb.jpg",
+      "img/archive/2023-portrait/01.jpg",
+      "img/archive/2023-portrait/02.jpg",
+      "img/archive/2023-portrait/03.jpg",
+      "img/archive/2023-portrait/04.jpg"
+    ]
+  },
+  {
+    "type": "archive",
+    "id": "22-A-vibrating bird-and-a-handwritten-letter",
+    "title": "진동새와 손편지 | 단체전",
+    "year": 2022,
+    "caption": "2022년 11월 9일 - 12월 31일",
+    "info": [
+      {
+        "title": "장소",
+        "text": "온라인·오프라인:《Ob/Scene Festival》아트선재센터, 예술청"
       },
       {
         "title": "기간",
-        "text": "온라인2022.00.00. - 2023.00.00. 오프라인 2022.11.8. - 11.12."
+        "text": "온라인 2022.11.9. - 12.31. | 오프라인 2022.11.9. - 11.20."
       },
       {
         "title": "주최·주관",
         "text": "한국타이포그라피학회"
+      },
+      {
+        "title": "기획",
+        "text": "민구홍, 양지은"
+      },
+      {
+        "title": "진행",
+        "text": "구경원, 김수은"
+      },
+      {
+        "title": "영상 편집",
+        "text": "양지은"
+      },
+      {
+        "title": "전시 웹사이트 디렉팅",
+        "text": "민구홍 매뉴팩처링"
+      },
+      {
+        "title": "홍보물 디자인",
+        "text": "양혜림"
+      },
+      {
+        "title": "협력",
+        "text": "옵/신 페스티벌"
+      },
+      {
+        "title": "전시 도록",
+        "text": "작업실유령 ISBN: 979-11-89356-88-0(00600)"
       }
     ],
     "thumb": "img/archive/2022-A-vibrating bird-and-a-handwritten-letter/thumb.jpg",
     "imgs": [
-      "img/archive/2022-A-vibrating bird-and-a-handwritten-letter/thumb.jpg"
+      "img/archive/2022-A-vibrating bird-and-a-handwritten-letter/thumb.jpg",
+      "img/archive/2022-A-vibrating bird-and-a-handwritten-letter/01.jpg",
+      "img/archive/2022-A-vibrating bird-and-a-handwritten-letter/02.jpg",
+      "img/archive/2022-A-vibrating bird-and-a-handwritten-letter/03.jpg",
+      "img/archive/2022-A-vibrating bird-and-a-handwritten-letter/04.jpg",
+      "img/archive/2022-A-vibrating bird-and-a-handwritten-letter/05.jpg",
+      "img/archive/2022-A-vibrating bird-and-a-handwritten-letter/06.jpg",
+      "img/archive/2022-A-vibrating bird-and-a-handwritten-letter/07.jpg",
+      "img/archive/2022-A-vibrating bird-and-a-handwritten-letter/08.jpg"
     ]
   },
   {
     "type": "archive",
     "id": "22-observer",
-    "title": "옵서버: 조각 | 단체전",
+    "title": "VENOMOLD | 단체전",
     "year": 2022,
     "caption": "2022년 11월 16일 - 11월 27일 | (총 11월 2일 - 12월 11일)",
     "info": [
@@ -482,11 +669,31 @@
       },
       {
         "title": "주최·주관",
-        "text": "OS 옵서버"
+        "text": "OS, 의외의 조합"
+      },
+      {
+        "title": "기획",
+        "text": "OS 기획팀 (김민훈, 김중균, 박고운, 서예나, 신희상)"
+      },
+      {
+        "title": "디자인",
+        "text": "OS 디자인팀 (김도희, 손원혁, 최낙준)"
+      },
+      {
+        "title": "사진",
+        "text": "양이언"
       }
     ],
     "thumb":"img/archive/2022-observer/thumb.jpg",
     "imgs": [
+      "img/archive/2022-observer/thumb.jpg",
+      "img/archive/2022-observer/07.jpg",
+      "img/archive/2022-observer/05.jpg",
+      "img/archive/2022-observer/06.jpg",
+      "img/archive/2022-observer/01.jpg",
+      "img/archive/2022-observer/02.jpg",
+      "img/archive/2022-observer/03.jpg",
+      "img/archive/2022-observer/04.jpg"
     ]
   },
   {
@@ -503,11 +710,26 @@
       {
         "title": "주최·주관",
         "text": "CICA 미술관"
+      },
+      {
+        "title": "사진",
+        "text": "안희상"
+      },
+      {
+        "title": "디자인",
+        "text": "손원혁"
       }
     ],
     "thumb": "img/archive/2022-assemblogy/thumb.jpg",
     "imgs": [
-      "img/archive/2022-assemblogy/thumb.jpg"
+      "img/archive/2022-assemblogy/thumb.jpg",
+      "img/archive/2022-assemblogy/08.jpg",  
+      "img/archive/2022-assemblogy/06.jpg",
+      "img/archive/2022-assemblogy/05.jpg",
+      "img/archive/2022-assemblogy/07.jpg",
+      "img/archive/2022-assemblogy/01.jpg",
+      "img/archive/2022-assemblogy/03.jpg",
+      "img/archive/2022-assemblogy/04.jpg"  
     ]
   },
   {
@@ -540,10 +762,14 @@
     ],
     "thumb": "img/archive/2021-singing-word/thumb.jpg",
     "imgs": [
+      "img/archive/2021-singing-word/thumb.jpg",
       "img/archive/2021-singing-word/01.jpeg",
       "img/archive/2021-singing-word/02.jpeg",
       "img/archive/2021-singing-word/03.jpeg",
-      "img/archive/2021-singing-word/thumb.jpg"
+      "img/archive/2021-singing-word/04.jpg",
+      "img/archive/2021-singing-word/05.jpg",
+      "img/archive/2021-singing-word/06.jpg",
+      "img/archive/2021-singing-word/07.jpg"
     ]
   },
   {
@@ -566,19 +792,35 @@
         "text": "광명시, 광명문화재단"
       },
       {
-        "title": "기획",
+        "title": "기획·디자인",
         "text": "손원혁"
+      },
+      {
+        "title": "작가 평론",
+        "text": "정해선"
+      },
+      {
+        "title": "사진",
+        "text": "광명문화재단"
       }
     ],
     "thumb": "img/archive/2021-dreamland/thumb.jpg",
     "imgs": [
-      "img/archive/2021-dreamland/01.jpg",
+      "img/archive/2021-dreamland/thumb.jpg",
+      "img/typography/buddha/02.jpg",
+      "img/archive/2021-dreamland/07.jpg",
+      "img/archive/2021-dreamland/06.jpg",
+      "img/typography/buddha/05.jpg",
       "img/archive/2021-dreamland/02.jpg",
       "img/archive/2021-dreamland/03.jpg",
       "img/archive/2021-dreamland/04.jpg",
+      "img/sculpture/buddha/01.jpg",
       "img/archive/2021-dreamland/05.jpg",
-      "img/archive/2021-dreamland/06.jpg",
-      "img/archive/2021-dreamland/thumb.jpg"
+      "img/archive/2021-dreamland/08.jpg",
+      "img/archive/2021-dreamland/09.jpg",
+      "img/archive/2021-dreamland/10.jpg",
+      "img/painting/block211128/01.jpg",
+      "img/painting/block211128/02.jpg"
     ]
   },
   {
@@ -607,13 +849,15 @@
     ],
     "thumb": "img/archive/2021-relativity-circuit/thumb.jpg",
     "imgs": [
+      "img/archive/2021-relativity-circuit/thumb.jpg",
       "img/archive/2021-relativity-circuit/01.jpg",
+      "img/archive/2021-relativity-circuit/07.jpg",
+      "img/archive/2021-relativity-circuit/08.jpg",
       "img/archive/2021-relativity-circuit/02.jpg",
       "img/archive/2021-relativity-circuit/03.jpg",
       "img/archive/2021-relativity-circuit/04.jpg",
       "img/archive/2021-relativity-circuit/05.jpg",
-      "img/archive/2021-relativity-circuit/06.jpg",
-      "img/archive/2021-relativity-circuit/thumb.jpg"
+      "img/archive/2021-relativity-circuit/06.jpg"
     ]
   },
   {
@@ -634,12 +878,12 @@
     ],
     "thumb": "img/archive/2021-over-the-structures/thumb.jpg",
     "imgs": [
+      "img/archive/2021-over-the-structures/thumb.jpg",
       "img/archive/2021-over-the-structures/01.jpg",
       "img/archive/2021-over-the-structures/02.jpg",
       "img/archive/2021-over-the-structures/03.jpg",
       "img/archive/2021-over-the-structures/04.jpg",
-      "img/archive/2021-over-the-structures/05.jpg",
-      "img/archive/2021-over-the-structures/thumb.jpg"
+      "img/archive/2021-over-the-structures/05.jpg"
     ]
   },
   {
@@ -672,13 +916,13 @@
     ],
     "thumb": "img/archive/2020-contactless/thumb.jpg",
     "imgs": [
-      "img/archive/2020-contactless/01.jpeg",
+      "img/archive/2020-contactless/thumb.jpg",
+      "img/archive/2020-contactless/07.jpg",
+      "img/archive/2020-contactless/08.jpg",
       "img/archive/2020-contactless/02.jpeg",
-      "img/archive/2020-contactless/03.jpeg",
       "img/archive/2020-contactless/04.jpeg",
       "img/archive/2020-contactless/05.png",
-      "img/archive/2020-contactless/06.jpeg",
-      "img/archive/2020-contactless/thumb.jpg"
+      "img/archive/2020-contactless/03.jpeg"
     ]
   },
   {
@@ -703,13 +947,14 @@
     ],
     "thumb": "img/archive/2020-dreamland/thumb.jpg",
     "imgs": [
+      "img/archive/2020-dreamland/thumb.jpg",
+      "img/archive/2020-dreamland/07.jpg",
       "img/archive/2020-dreamland/01.jpg",
       "img/archive/2020-dreamland/02.jpg",
       "img/archive/2020-dreamland/03.jpg",
       "img/archive/2020-dreamland/04.jpg",
       "img/archive/2020-dreamland/05.jpg",
-      "img/archive/2020-dreamland/06.jpg",
-      "img/archive/2020-dreamland/thumb.jpg"
+      "img/archive/2020-dreamland/06.jpg"
     ]
   },
   {
@@ -734,13 +979,14 @@
     ],
     "thumb": "img/archive/2019-knowing/thumb.jpg",
     "imgs": [
-      "img/archive/2019-knowing/01.jpg",
+      "img/archive/2019-knowing/thumb.jpg",
+      "img/archive/2019-knowing/07.jpg",
       "img/archive/2019-knowing/02.jpg",
       "img/archive/2019-knowing/03.jpg",
+      "img/archive/2019-knowing/01.jpg",
       "img/archive/2019-knowing/04.jpg",
       "img/archive/2019-knowing/05.jpg",
-      "img/archive/2019-knowing/06.jpg",
-      "img/archive/2019-knowing/thumb.jpg"
+      "img/archive/2019-knowing/06.jpg"
     ]
   },
   {
@@ -765,12 +1011,12 @@
     ],
     "thumb": "img/archive/2019-bauhaus-mirror/thumb.jpg",
     "imgs": [
+      "img/archive/2019-bauhaus-mirror/thumb.jpg",
       "img/archive/2019-bauhaus-mirror/01.jpg",
       "img/archive/2019-bauhaus-mirror/02.jpg",
       "img/archive/2019-bauhaus-mirror/03.jpg",
       "img/archive/2019-bauhaus-mirror/04.jpg",
-      "img/archive/2019-bauhaus-mirror/05.jpg",
-      "img/archive/2019-bauhaus-mirror/thumb.jpg"
+      "img/archive/2019-bauhaus-mirror/05.jpg"
     ]
   },
   {
@@ -795,11 +1041,11 @@
     ],
     "thumb": "img/archive/2019-gyeonggi-art-contest/thumb.jpg",
     "imgs": [
+      "img/archive/2019-gyeonggi-art-contest/thumb.jpg",
       "img/archive/2019-gyeonggi-art-contest/01.jpg",
       "img/archive/2019-gyeonggi-art-contest/02.jpg",
       "img/archive/2019-gyeonggi-art-contest/03.jpg",
-      "img/archive/2019-gyeonggi-art-contest/04.jpg",
-      "img/archive/2019-gyeonggi-art-contest/thumb.jpg"
+      "img/archive/2019-gyeonggi-art-contest/04.jpg"
     ]
   },
   {
@@ -820,13 +1066,13 @@
     ],
     "thumb": "img/archive/2019-watch-the-world/thumb.jpg",
     "imgs": [
+      "img/archive/2019-watch-the-world/thumb.jpg",
       "img/archive/2019-watch-the-world/01.jpg",
       "img/archive/2019-watch-the-world/02.jpg",
       "img/archive/2019-watch-the-world/03.jpg",
       "img/archive/2019-watch-the-world/04.jpg",
       "img/archive/2019-watch-the-world/05.jpg",
-      "img/archive/2019-watch-the-world/06.jpg",
-      "img/archive/2019-watch-the-world/thumb.jpg"
+      "img/archive/2019-watch-the-world/06.jpg"
     ]
   },
   {
@@ -851,14 +1097,14 @@
     ],
     "thumb": "img/archive/2018-scope-miami-beach/thumb.png",
     "imgs": [
+      "img/archive/2018-scope-miami-beach/thumb.png",
+      "img/archive/2018-scope-miami-beach/04.jpg",
       "img/archive/2018-scope-miami-beach/01.jpg",
       "img/archive/2018-scope-miami-beach/02.jpg",
       "img/archive/2018-scope-miami-beach/03.jpg",
-      "img/archive/2018-scope-miami-beach/04.jpg",
       "img/archive/2018-scope-miami-beach/05.jpg",
       "img/archive/2018-scope-miami-beach/06.jpg",
-      "img/archive/2018-scope-miami-beach/07.jpg",
-      "img/archive/2018-scope-miami-beach/thumb.png"
+      "img/archive/2018-scope-miami-beach/07.jpg"
     ]
   },
   {
@@ -883,13 +1129,13 @@
     ],
     "thumb": "img/archive/2018-young-artist/thumb.jpg",
     "imgs": [
+      "img/archive/2018-young-artist/thumb.jpg",
       "img/archive/2018-young-artist/01.jpg",
       "img/archive/2018-young-artist/02.jpg",
       "img/archive/2018-young-artist/03.jpg",
       "img/archive/2018-young-artist/04.jpg",
       "img/archive/2018-young-artist/05.jpg",
-      "img/archive/2018-young-artist/06.jpg",
-      "img/archive/2018-young-artist/thumb.jpg"
+      "img/archive/2018-young-artist/06.jpg"
     ]
   },
   {
@@ -918,18 +1164,15 @@
     ],
     "thumb": "img/archive/2016-i-am-robot/thumb.jpg",
     "imgs": [
+      "img/archive/2016-i-am-robot/thumb.jpg",
       "img/archive/2016-i-am-robot/01.jpg",
-      "img/archive/2016-i-am-robot/02.jpg",
-      "img/archive/2016-i-am-robot/03.jpg",
-      "img/archive/2016-i-am-robot/04.png",
-      "img/archive/2016-i-am-robot/05.jpg",
-      "img/archive/2016-i-am-robot/thumb.jpg"
+      "img/archive/2016-i-am-robot/04.png"
     ]
   },
   {
     "type": "archive",
     "id": "16-seoul-crafts-fair",
-    "title": "2016 서울공예박람회 | 아트페어",
+    "title": "2016 서울공예박람회 | 단체전",
     "year": 2016,
     "caption": "2016년 9월 22일 - 10월 2일",
     "info": [
@@ -952,13 +1195,13 @@
     ],
     "thumb": "img/archive/2016-seoul-crafts-fair/thumb.jpg",
     "imgs": [
+      "img/archive/2016-seoul-crafts-fair/thumb.jpg",
       "img/archive/2016-seoul-crafts-fair/01.jpg",
       "img/archive/2016-seoul-crafts-fair/02.jpg",
       "img/archive/2016-seoul-crafts-fair/03.jpg",
       "img/archive/2016-seoul-crafts-fair/04.jpg",
       "img/archive/2016-seoul-crafts-fair/05.jpg",
-      "img/archive/2016-seoul-crafts-fair/06.jpg",
-      "img/archive/2016-seoul-crafts-fair/thumb.jpg"
+      "img/archive/2016-seoul-crafts-fair/06.jpg"
     ]
   },
   {
@@ -983,9 +1226,9 @@
     ],
     "thumb": "img/archive/2016-brick-convention/thumb.jpg",
     "imgs": [
+      "img/archive/2016-brick-convention/thumb.jpg",
       "img/archive/2016-brick-convention/01.jpg",
-      "img/archive/2016-brick-convention/02.jpg",
-      "img/archive/2016-brick-convention/thumb.jpg"
+      "img/archive/2016-brick-convention/02.jpg"
     ]
   },
   {
@@ -1010,11 +1253,10 @@
     ],
     "thumb": "img/archive/2015-brick-convention/thumb.jpg",
     "imgs": [
-      "img/archive/2015-brick-convention/01.jpg",
+      "img/archive/2015-brick-convention/thumb.jpg",
       "img/archive/2015-brick-convention/02.jpeg",
       "img/archive/2015-brick-convention/03.jpeg",
-      "img/archive/2015-brick-convention/04.jpeg",
-      "img/archive/2015-brick-convention/thumb.jpg"
+      "img/archive/2015-brick-convention/04.jpeg"
     ]
   }
 ]
