@@ -17,7 +17,6 @@
     color: #cccccc;
     background-color: #cccccc;
     border: none;
-    //background-color: transparent;
     font-size: 1.5em;
     cursor: pointer;
     transition: color 0.15s, background-color 0.15s;
@@ -113,6 +112,10 @@
     margin-top: 0;
     top: 0;
     color: transparent;
+
+    &:hover {
+      background-color: transparent;
+    }
 
     &.prev-btn-wrap {
       width: 30%;
