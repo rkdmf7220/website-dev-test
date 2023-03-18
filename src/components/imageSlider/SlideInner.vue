@@ -81,13 +81,15 @@ export default {
       })
       this.$parent.$refs["image-slider"].addEventListener('touchend', this.onDropSlider)
     } else {
-      window.addEventListener('mousemove', this.onDragSlider)
-      window.addEventListener('mouseup', this.onDropSlider)
+      window.addEventListener('mousemove', this.onDragSlider);
+      window.addEventListener('mouseup', this.onDropSlider);
     }
   },
   beforeUnmount() {
     window.removeEventListener('keydown', (e) => this.onKeydownSlide(e));
     window.removeEventListener('resize', this.applyMovedSliderPosition);
+    window.addEventListener('mousemove', this.onDragSlider);
+    window.addEventListener('mouseup', this.onDropSlider);
   },
   data() {
     return {
@@ -262,6 +264,9 @@ export default {
       }
     },
     onDropSlider(e) {
+      if (!this.isTouchDevice && !this.isMouseDown) {
+        return
+      }
       if (this.pinchZoom) {
         this.saveZoomPosition(e)
       } else {
