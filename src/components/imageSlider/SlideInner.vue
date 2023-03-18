@@ -7,10 +7,8 @@
       <SlideBtn v-show="!isTouchDevice || !pinchZoom" @click="onClickNextBtn" icon-type="nextIcon" class="slide-next-btn"/>
     </div>
     <div
-        @dragstart="(e) => onDragStartSlider(e)"
-        @dragover="(e) => onDragSlider(e)"
-        @dragend="(e) => onDropSlider(e)"
-        :class="{'is-drag': isDrag}"
+        @mousedown="(e) => onDragStartSlider(e)"
+        :class="{'is-drag': isPreventTransition}"
         :style="{
          'transform': `translateX(${slideTranslatePosition}px)`,
          'transition-duration': slideTransitionDuration
@@ -23,7 +21,7 @@
           :key="index" class="slide-img-item"
       >
         <picture :id="`slide-img-wrap-${index + 1}`" class="slide-img-wrap">
-          <img :id="`slide-img-${index + 1}`" :src="'/' + item" :alt="this.$route.params.id + ' image ' + (index + 1)">
+          <img :id="`slide-img-${index + 1}`" :src="'/' + item" :alt="this.$route.params.id + ' image ' + (index + 1)" :draggable="isTouchDevice">
         </picture>
       </div>
     </div>
@@ -50,20 +48,15 @@ export default {
       return this.imgList?.length
     },
     isTouchDevice() {
-      return navigator.maxTouchPoints || 'ontouchstart' in document.documentElement
+      return !!(navigator.maxTouchPoints || 'ontouchstart' in document.documentElement);
     },
     slideTransitionDuration() {
-      return this.isDrag ? '0ms' : '300ms';
+      return this.isPreventTransition ? '0ms' : '300ms';
     },
     zoomHorizontalMovable() {
-      // return document.getElementById(`slide-img-${this.currentIndex}`).offsetWidth * this.pinchZoomScale;
-      // let offsetWidth = document.getElementById(`slide-img-${this.currentIndex}`).offsetWidth * this.pinchZoomScale
-      // let contentsWidth = this.$refs['slide-contents'].offsetWidth
-      // console.log('checkWidth >>', offsetWidth, 'and', contentsWidth)
       return (document.getElementById(`slide-img-${this.currentIndex}`).offsetWidth * this.pinchZoomScale) > this.$refs['slide-contents'].offsetWidth;
     },
     zoomVerticalMovable() {
-      // return document.getElementById(`slide-img-${this.currentIndex}`).offsetHeight * this.pinchZoomScale;
       return (document.getElementById(`slide-img-${this.currentIndex}`).offsetHeight * this.pinchZoomScale) > this.$refs['slide-contents'].offsetHeight;
     },
     zoomHorizontalDistance() {
@@ -87,21 +80,19 @@ export default {
         passive: false
       })
       this.$parent.$refs["image-slider"].addEventListener('touchend', this.onDropSlider)
+    } else {
+      window.addEventListener('mousemove', this.onDragSlider)
+      window.addEventListener('mouseup', this.onDropSlider)
     }
   },
   beforeUnmount() {
     window.removeEventListener('keydown', (e) => this.onKeydownSlide(e));
     window.removeEventListener('resize', this.applyMovedSliderPosition);
-/*    if (this.isTouchDevice) {
-      this.$parent.$refs["image-slider"].removeEventListener('touchstart', this.onSwipeStartSlider)
-      this.$parent.$refs["image-slider"].removeEventListener('touchmove', this.onHandleSwipeDirect)
-      this.$parent.$refs["image-slider"].removeEventListener('touchmove', this.onSwipeSlider)
-      this.$parent.$refs["image-slider"].removeEventListener('touchend', this.onDropSlider)
-    }*/
   },
   data() {
     return {
-      isDrag: true,
+      isMouseDown: false,
+      isPreventTransition: true,
       startDragPointX: null,
       startDragPointY: null,
       currentDragPointX: null,
@@ -116,7 +107,7 @@ export default {
   methods: {
     onClickPrevBtn() {
       if (this.currentIndex > 1) {
-        this.isDrag = false
+        this.isPreventTransition = false
         this.resetZoomScale()
         this.$emit('decrease:index')
       }
@@ -127,7 +118,7 @@ export default {
     },
     onClickNextBtn() {
       if (this.currentIndex < this.maxIndex) {
-        this.isDrag = false
+        this.isPreventTransition = false
         this.resetZoomScale()
         this.$emit('increase:index')
       }
@@ -137,7 +128,16 @@ export default {
       this.$refs["slide-contents"].style.transform = `translateX(${(this.currentIndex - 1) * -this.$refs["slide-contents"]?.clientWidth}px)`
     },
     onDragStartSlider(e) {
-      this.isDrag = true
+      console.log('e >>', e)
+      // let img = document.createElement("img");
+      // img.src = 'data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7';
+      // e.dataTransfer.setDragImage(img, 2, 2);
+      // const img = new Image()
+      // img.src = 'data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7';
+      // e.dataTransfer.setDragImage(img, 150, 150)
+
+      this.isMouseDown = true
+      this.isPreventTransition = true
       // console.log('start >>', e)
       if (this.pinchZoom) {
         this.startDragPointX = e.clientX
@@ -149,15 +149,19 @@ export default {
       // console.log('dragStart >>', this.startDragPointX)
     },
     onDragSlider(e) {
-      e.preventDefault()
-      e.dataTransfer.dropEffect = "move";
-      if (this.pinchZoom) {
+      // e.preventDefault()
+      // e.dataTransfer.dropEffect = "move";
+      if (this.pinchZoom && this.isMouseDown) {
+        console.log('mouseDown >>', this.isMouseDown)
         this.moveZoomPosition(e)
       } else {
         /*if (!this.isDrag) {
           return
           // 이 부분이 필요한가?
         }*/
+        if (!this.isMouseDown) {
+          return
+        }
         this.moveSliderPosition(e)
       }
     },
@@ -220,7 +224,7 @@ export default {
     onSwipeStartSlider(e) {
       this.startDragPointX = e.touches[0].clientX;
       this.startDragPointY = e.touches[0].clientY;
-      this.isDrag = true;
+      this.isPreventTransition = true;
     },
     onHandleSwipeDirect(e) {
       if (!this.swipeDirection && !this.pinchZoom) {
@@ -270,6 +274,7 @@ export default {
       }
     },
     saveZoomPosition(e) {
+      this.isMouseDown = false
       let currentDragPointX
       let currentDragPointY
       if (this.isTouchDevice) {
@@ -305,7 +310,8 @@ export default {
       } else {
         endDragPoint = e.clientX
       }
-      this.isDrag = false
+      this.isMouseDown = false
+      this.isPreventTransition = false
       if (this.startDragPointX > endDragPoint + 50 && this.currentIndex < this.maxIndex) {
         this.$emit('increase:index')
       } else if (this.startDragPointX < endDragPoint - 50 && this.currentIndex > 1) {
