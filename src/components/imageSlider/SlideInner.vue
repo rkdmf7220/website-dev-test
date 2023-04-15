@@ -48,7 +48,7 @@ export default {
       return this.imgList?.length
     },
     isTouchDevice() {
-      return !!(navigator.maxTouchPoints || 'ontouchstart' in document.documentElement);
+      return navigator.maxTouchPoints || 'ontouchstart' in document.documentElement
     },
     slideTransitionDuration() {
       return this.isPreventTransition ? '0ms' : '300ms';
@@ -124,23 +124,13 @@ export default {
         this.resetZoomScale()
         this.$emit('increase:index')
       }
-      // this.applyMovedSliderPosition()
     },
     applyMovedSliderPosition() {
       this.$refs["slide-contents"].style.transform = `translateX(${(this.currentIndex - 1) * -this.$refs["slide-contents"]?.clientWidth}px)`
     },
     onDragStartSlider(e) {
-      console.log('e >>', e)
-      // let img = document.createElement("img");
-      // img.src = 'data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7';
-      // e.dataTransfer.setDragImage(img, 2, 2);
-      // const img = new Image()
-      // img.src = 'data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7';
-      // e.dataTransfer.setDragImage(img, 150, 150)
-
       this.isMouseDown = true
       this.isPreventTransition = true
-      // console.log('start >>', e)
       if (this.pinchZoom) {
         this.startDragPointX = e.clientX
         this.startDragPointY = e.clientY
@@ -148,19 +138,11 @@ export default {
         this.startDragPointX = e.clientX
         this.swipeDirection = 'horizontal'
       }
-      // console.log('dragStart >>', this.startDragPointX)
     },
     onDragSlider(e) {
-      // e.preventDefault()
-      // e.dataTransfer.dropEffect = "move";
       if (this.pinchZoom && this.isMouseDown) {
-        console.log('mouseDown >>', this.isMouseDown)
         this.moveZoomPosition(e)
       } else {
-        /*if (!this.isDrag) {
-          return
-          // 이 부분이 필요한가?
-        }*/
         if (!this.isMouseDown) {
           return
         }
@@ -173,7 +155,6 @@ export default {
       if (this.isTouchDevice) {
         currentDragPointX = e.touches[0].clientX;
         currentDragPointY = e.touches[0].clientY;
-        // console.log('dragXY', e, currentDragPointX, currentDragPointY)
       } else {
         currentDragPointX = e.clientX;
         currentDragPointY = e.clientY;
@@ -191,26 +172,17 @@ export default {
         }
       } else {
         movedDragPositionX = 0
-        // console.log('작동 4')
       }
 
       if (this.zoomVerticalMovable) {
-        // console.log('Y 숫자 확인 >>', this.zoomVerticalDistance, Math.abs(this.currentZoomPositionY + movedDragDistanceY))
         if (this.zoomVerticalDistance >= Math.abs(this.currentZoomPositionY + movedDragDistanceY)) {
           movedDragPositionY = this.currentZoomPositionY + movedDragDistanceY;
-          // console.log('work1')
         } else {
           movedDragPositionY = (this.currentZoomPositionY + movedDragDistanceY) > 0 ? this.zoomVerticalDistance : -this.zoomVerticalDistance;
-          // console.log('work2')
         }
       } else {
         movedDragPositionY = 0
-        // console.log('work3')
       }
-      /*      document.getElementById(`slide-img-wrap-${this.currentIndex}`).style.transform =
-                `translate(
-                ${this.currentZoomPositionX + movedDragDistanceX}px,
-                ${this.currentZoomPositionY + movedDragDistanceY}px)`*/
       document.getElementById(`slide-img-wrap-${this.currentIndex}`).style.transform =
           `translate(
           ${movedDragPositionX}px,
@@ -294,10 +266,8 @@ export default {
 
       if (this.zoomHorizontalDistance > Math.abs(this.currentZoomPositionX + movedDragDistanceX)) {
         this.currentZoomPositionX = this.currentZoomPositionX + movedDragDistanceX
-        // console.log('drop if', this.currentZoomPositionX)
       } else {
         this.currentZoomPositionX = this.currentZoomPositionX + movedDragDistanceX > 0 ? this.zoomHorizontalDistance : -this.zoomHorizontalDistance
-        // console.log('drop else', this.currentZoomPositionX)
       }
 
       if (this.zoomVerticalDistance > Math.abs(this.currentZoomPositionY + movedDragDistanceY)) {
@@ -352,26 +322,14 @@ export default {
     },
     // zoom 관련
     applyZoomScale() {
-      /*      if (!this.pinchZoom) {
-              console.log('!pinchZoom', this.pinchZoomScale)
-              return
-            }*/
       this.currentZoomPositionX = this.currentZoomPositionX / this.prevZoomScale * this.pinchZoomScale;
       this.currentZoomPositionY = this.currentZoomPositionY / this.prevZoomScale * this.pinchZoomScale;
-      // document.getElementById(`slide-img-wrap-${this.currentIndex}`).style.transform =
-      //     `translate(
-      //     ${this.currentZoomPositionX / this.prevZoomScale * this.pinchZoomScale}px,
-      //     ${this.currentZoomPositionY / this.prevZoomScale * this.pinchZoomScale}px)`;
       document.getElementById(`slide-img-wrap-${this.currentIndex}`).style.transform = `translate(${this.currentZoomPositionX}px, ${this.currentZoomPositionY}px)`;
       document.getElementById(`slide-img-${this.currentIndex}`).style.transform = `scale(${this.pinchZoomScale})`;
     },
     resetZoomScale() {
       this.currentZoomPositionX = 0;
       this.currentZoomPositionY = 0;
-      // console.log('pinchScale >>', this.pinchZoomScale);
-      // document.getElementById(`slide-img-wrap-${this.currentIndex}`).style.transform = "translate(0px, 0px)";
-      // document.getElementById(`slide-img-${this.currentIndex}`).style.transform = 'scale(1, 1)';
-      // console.log('정보 확인 >>', this.currentIndex, this.currentZoomPositionX, this.currentZoomPositionY, this.pinchZoomScale)
       document.getElementById(`slide-img-wrap-${this.currentIndex}`).style.transform = `translate(${this.currentZoomPositionX}px, ${this.currentZoomPositionY}px)`;
       document.getElementById(`slide-img-${this.currentIndex}`).style.transform = `scale(1)`;
       this.$emit('change:zoom', 'reset')
