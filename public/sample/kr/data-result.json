@@ -37,6 +37,21 @@
   },
   {
     "type": "sculpture",
+    "id": "sample-buddha",
+    "title": "고화질 이미지 (레고 부처)",
+    "year": 2021,
+    "thumb": "img/sculpture/sample_buddha/01.jpg",
+    "imgs": [
+      "img/sculpture/sample_buddha/01.jpg",
+      "img/sculpture/sample_buddha/02.jpg",
+      "img/sculpture/sample_buddha/03.jpg",
+      "img/sculpture/sample_buddha/04.jpg"
+    ],
+    "caption": "2021, 캔버스에 실크스크린, TV, 레고 블록, 가변크기 (430 x 400 x 140cm)",
+    "text": "색의 순환과 부처의 확장.\n표정과 형태가 명확히 보이지 않는, 무한히 확장하며 수렴하는 무한(無限)의 흰색 부처가 투명한 부처를 바라본다.\n프리즘의 역할을 하는 투명한 부처의 얼굴을 지나 흰색 부처는 디지털의 원색인 RGB (빨강, 초록, 파랑)의 부처와 아날로그의 원색인 CMYK(시안, 마젠타, 노랑, 검정)의 부처로 확장한다.\n그렇게 프리즘으로 투과된 색은 무한의 부처로 다시 순환한다.\n모든 색은 순환하며 모든 색을 구현할 수 있으며 부처의 형태를 통해 확장되며 수렴된다.\n시작과 끝이 존재하지 않으며 끊임없이 확장하고 수렴하는 부처는 색으로 순환되는 모래시계 구조로 4-3-1-∞(무한)으로 순환한다.\n색으로 분리된 부처는 선을 상징하고, 프리즘으로 수렴되는 투명의 부처는 점을 상징하며, 분리된 선의 부처가 모인 무한의 색을 가진 다(多)부처는 면을 상징하여 점•선•면의 구조로 이루어져 있다."
+  },
+  {
+    "type": "sculpture",
     "id": "lego-buddha",
     "title": "순환 (레고 부처)",
     "year": 2021,
