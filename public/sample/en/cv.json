@@ -13,7 +13,6 @@
           }
         ]
       },
-      "soloExhibition": {
         "soloExhibition": {
           "title": "Solo Exhibition",
           "items": [
@@ -91,8 +90,7 @@
           ]
         }
       }
-    }
-  },
+    },
   "fullCv": {
     "name": "Full CV",
     "list": {
