@@ -73,17 +73,6 @@
             }
           ]
         },
-        "ph": {
-          "title": "PH",
-          "items": [
-            {
-              "year": "2019",
-              "text": [
-                "AhnGraphics Publishers | Designer (intern)"
-              ]
-            }
-          ]
-        },
         "division": {
           "title": "Division",
           "items": [
@@ -97,23 +86,6 @@
               "year": "2020 -",
               "text": [
                 "Korean Society of Typography | Regular Member"
-              ]
-            }
-          ]
-        },
-        "introduction": {
-          "title": "Introduction",
-          "items": [
-            {
-              "year": "2022",
-              "text": [
-                "Workroom Specter 『Vibrating Birds and Handwritten Letter』| Exhibition catalogue"
-              ]
-            },
-            {
-              "year": "2021",
-              "text": [
-                "CA BOOKS no.254 『Contactless』"
               ]
             }
           ]
