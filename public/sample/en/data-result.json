@@ -588,29 +588,57 @@
   },
   {
     "type": "news",
-    "id": "sample-data-1",
-    "title": "News sample data",
+    "id": "23-OS Round table",
+    "title": "OS Round table",
     "year": 2023,
-    "caption": "April 15, 2023",
+    "caption": "January 28, 2023",
     "info": [
       {
-        "title": "Title",
-        "text": "Some text"
+        "title": "Hosted by",
+        "text": "OBSERVER:SCULPTURE"
       },
       {
-        "title": "Ed Sheeran - Bad Habits",
-        "text": "My bad habits lead to late nights ending alone.\nConversations with a stranger I barely know.\nSwearing this will be the last, but it probably won’t.\nI’ve got nothing left to lose, or use, or do."
+        "title": "Venue",
+        "text": "Art Space Seogyo"
       },
       {
-        "title": "Not use newline",
-        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+        "title": "Introduction",
+        "text": "OBSERVER: SCULPTURE (OS) Round Table 1.28\nOur team has prepared a place to have conversations with the artists participating in the OS.\nTogether, we’ll review OS’s conversation activities and exhibitions in 2022, <Pioneer and Drifty poems>, <VENOMOLD>, <Pressure perspective> and talk about the path and solidarity ahead.\nSection 1. Are you a sculptor? (13:00-13:45),\nSection 2. Power to drive 'creation’ (13:45-14:20),\nSection 3. Time difference adaptation (14:40-15:20),\nSection 4. Stepping on hard ground in loose solidarity (15:20-16:00)"
       }
     ],
-    "thumb": "img/news/sample/01.jpg",
+    "thumb": "img/news/23-OS Round table/01.jpg",
     "imgs": [
-      "img/news/sample/01.jpg",
-      "img/news/sample/02.png",
-      "img/news/sample/03.png"
+      "img/news/23-OS Round table/01.jpg"
+    ]
+  },
+  {
+    "type": "news",
+    "id": "22-Vibrating Birds and Handwritten Letter",
+    "title": "Vibrating Birds and Handwritten Letter | Publication",
+    "year": 2022,
+    "caption": "November 9, 2022",
+    "info": [
+      {
+        "title": "publisher",
+        "text": "workroom specter"
+      },
+      {
+        "title": "writer",
+        "text": "Korean Society of Typography, Kim Cho-yeop"
+      },
+      {
+        "title": "ISBN",
+        "text": "9791189356880"
+      },
+      {
+        "title": "Introduction",
+        "text": "『The exhibition is composed of (1) the 16th exhibition of the Korea Typography Society, (2) a new novel by SF novelist Kim Cho-yeop, (3) a video work involving 194 members and non-members, (4) an offline publication covering works and participants on paper, and (5) an an online website."
+      }
+    ],
+    "thumb": "img/news/22-Vibrating Birds and Handwritten Letter/01.jpg",
+    "imgs": [
+      "img/news/22-Vibrating Birds and Handwritten Letter/01.jpg",
+      "img/news/22-Vibrating Birds and Handwritten Letter/02.png"
     ]
   },
   {
