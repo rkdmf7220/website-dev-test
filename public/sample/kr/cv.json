@@ -251,9 +251,15 @@
           }
         ]
       },
-      "introduction": {
-        "title": "소개",
+      "References": {
+        "title": "참고 자료",
         "items": [
+          {
+            "year": "2022",
+            "text": [
+              "작업실유령 『진동새와 손편지』"
+            ]
+          },
           {
             "year": "2021",
             "text": [
