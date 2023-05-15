@@ -376,17 +376,6 @@
   },
   {
     "type": "painting",
-    "id": "blueportrait",
-    "title": "Blue portrait",
-    "year": 2019,
-    "caption": "2019, Acrylic and Lego brick on canvas, 65.1 x 50cm",
-    "thumb": "img/painting/blueportrait/01.jpg",
-    "imgs": [
-      "img/painting/blueportrait/01.jpg"
-    ]
-  },
-  {
-    "type": "painting",
     "id": "twisted-harmony",
     "title": "Twisted harmony",
     "year": 2018,

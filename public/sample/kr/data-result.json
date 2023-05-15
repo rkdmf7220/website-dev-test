@@ -375,17 +375,6 @@
   },
   {
     "type": "painting",
-    "id": "blueportrait",
-    "title": "푸른 초상",
-    "year": 2019,
-    "caption": "2019, 캔버스에 레고 및 아크릴, 65.1 x 50cm",
-    "thumb": "img/painting/blueportrait/01.jpg",
-    "imgs": [
-      "img/painting/blueportrait/01.jpg"
-    ]
-  },
-  {
-    "type": "painting",
     "id": "twisted-harmony",
     "title": "뒤틀린 조화",
     "year": 2018,
