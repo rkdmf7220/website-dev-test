@@ -1,7 +1,7 @@
 <template>
   <div class="wrap">
     <PageTitle v-if="!isTouchDevice"/>
-    <div :style="{backgroundImage: 'url(img/main/01' + isTouchDevice + '.png)'}" class="spot"></div>
+    <div :style="{backgroundImage: 'url(img/main/01' + isTouchDevice + '.jpg)'}" class="spot"></div>
     <div class="contents">
       <div class="exhibition">
         <router-link to="/archive">
