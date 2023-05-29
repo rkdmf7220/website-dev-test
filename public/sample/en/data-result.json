@@ -455,23 +455,6 @@
   },
   {
     "type": "typography",
-    "id": "artwork",
-    "title": "2020 Wonhyuk Son Art collection",
-    "year": 2020,
-    "caption": "2020, Digital printing, A5",
-    "thumb": "img/typography/artwork/01.jpg",
-    "imgs": [
-      "img/typography/artwork/01.jpg",
-      "img/typography/artwork/02.jpg",
-      "img/typography/artwork/03.jpg",
-      "img/typography/artwork/04.jpg",
-      "img/typography/artwork/05.jpg",
-      "img/typography/artwork/06.jpg"
-    ],
-    "text": "2016 ~ 2020 Art work"
-  },
-  {
-    "type": "typography",
     "id": "cycle-gestalt",
     "title": "Cycle (gestalt)",
     "year": 2020,
@@ -529,37 +512,6 @@
       "img/typography/cycle/04.jpg"
     ],
     "text": "The principle of stroke addition, which changes shape as sound becomes stronger and weaker, can be compared implicitly to the circulation of the human world through the use of letters created by humans again.\nThere is a surreal structure in which the beginning and end of time cannot be separated, as well as geometric and concrete artistic characteristics in the form of sans serif."
-  },
-  {
-    "type": "typography",
-    "id": "yeot",
-    "title": "Yeot",
-    "year": 2019,
-    "caption": "2019, Illustration, A1 / 59.4 x 84.1cm",
-    "thumb": "img/typography/yeot/01.jpg",
-    "imgs": [
-      "img/typography/yeot/01.jpg",
-      "img/typography/yeot/02.jpg",
-      "img/typography/yeot/03.jpg"
-    ],
-    "text": "As Korean traditional snack, Yeot, is melted, it captures a fluidity like a single stroke of a brush, giving a sense of being a single brush stroke, not from the front."
-  },
-  {
-    "type": "typography",
-    "id": "bauhaus",
-    "title": "What is Bauhaus in South Korea",
-    "year": 2019,
-    "caption": "2019, Single-channel video, 1920 x 1080 Frame, 9.5, 9, 10.5 min",
-    "thumb": "img/typography/bauhaus/01.jpg",
-    "imgs": [
-      "img/typography/bauhaus/01.jpg",
-      "img/typography/bauhaus/02.jpg",
-      "img/typography/bauhaus/03.jpg",
-      "img/typography/bauhaus/04.jpg",
-      "img/typography/bauhaus/05.jpg",
-      "img/typography/bauhaus/06.jpg"
-    ],
-    "text": "Client: AhnGraphics Publisher\n\nVideo created for the 100th anniversary of Bauhaus that combines lecture videos of its main characters exploring bauhaus in South Korea.\nAdditionally, it was screened at Dongdaemun Design Plaza in commemoration of Bauhaus' 100th anniversary."
   },
   {
     "type": "news",
@@ -1010,71 +962,12 @@
     "thumb": "img/archive/2020-dreamland/thumb.jpg",
     "imgs": [
       "img/archive/2020-dreamland/thumb.jpg",
-      "img/archive/2020-dreamland/07.jpg",
       "img/archive/2020-dreamland/01.jpg",
       "img/archive/2020-dreamland/02.jpg",
       "img/archive/2020-dreamland/03.jpg",
       "img/archive/2020-dreamland/04.jpg",
       "img/archive/2020-dreamland/05.jpg",
       "img/archive/2020-dreamland/06.jpg"
-    ]
-  },
-  {
-    "type": "archive",
-    "id": "19-watch-the-wrold",
-    "title": "Watch the world through the art | Group exhibition",
-    "year": 2019,
-    "caption": "April 4 - May 14, 2019",
-    "info": [
-      {
-        "title": "Venue",
-        "text": "Gangnam-gu Office (Seoul)"
-      },
-      {
-        "title": "Organized by",
-        "text": "Gangnam-gu"
-      }
-    ],
-    "thumb": "img/archive/2019-watch-the-world/thumb.jpg",
-    "imgs": [
-      "img/archive/2019-watch-the-world/thumb.jpg",
-      "img/archive/2019-watch-the-world/01.jpg",
-      "img/archive/2019-watch-the-world/02.jpg",
-      "img/archive/2019-watch-the-world/03.jpg",
-      "img/archive/2019-watch-the-world/04.jpg",
-      "img/archive/2019-watch-the-world/05.jpg",
-      "img/archive/2019-watch-the-world/06.jpg"
-    ]
-  },
-  {
-    "type": "archive",
-    "id": "18-young-artist",
-    "title": "YOUNG ARTIST CONTEST | Group exhibition",
-    "year": 2018,
-    "caption": "August 1 - August 24, 2018",
-    "info": [
-      {
-        "title": "Venue",
-        "text": "Gallery We"
-      },
-      {
-        "title": "Organized by",
-        "text": "IYAA(International Young Artist Association), Gallery We"
-      },
-      {
-        "title": "Supported by",
-        "text": "Korean Fine Arts Association, Seoul Cultural Public Relations Institution "
-      }
-    ],
-    "thumb": "img/archive/2018-young-artist/thumb.jpg",
-    "imgs": [
-      "img/archive/2018-young-artist/thumb.jpg",
-      "img/archive/2018-young-artist/01.jpg",
-      "img/archive/2018-young-artist/02.jpg",
-      "img/archive/2018-young-artist/03.jpg",
-      "img/archive/2018-young-artist/04.jpg",
-      "img/archive/2018-young-artist/05.jpg",
-      "img/archive/2018-young-artist/06.jpg"
     ]
   }
 ]
