@@ -973,5 +973,31 @@
       "img/archive/2020-dreamland/05.jpg",
       "img/archive/2020-dreamland/06.jpg"
     ]
+  },
+  {
+    "type": "archive",
+    "id": "18-young-artist",
+    "title": "YOUNG ARTIST CONTEST | Group exhibition",
+    "year": 2018,
+    "caption": "August 1 - August 24, 2018",
+    "info": [
+      {
+        "title": "Venue",
+        "text": "Gallery We"
+      },
+      {
+        "title": "Organized by",
+        "text": "IYAA(International Young Artist Association), Gallery We"
+      },
+      {
+        "title": "Supported by",
+        "text": "Korean Fine Arts Association, Seoul Cultural Public Relations Institution "
+      }
+    ],
+    "thumb": "img/archive/2018-young-artist/thumb.jpg",
+    "imgs": [
+      "img/archive/2018-young-artist/thumb.jpg",
+      "img/archive/2018-young-artist/02.jpg"
+    ]
   }
 ]

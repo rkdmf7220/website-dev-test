@@ -956,5 +956,31 @@
       "img/archive/2020-dreamland/05.jpg",
       "img/archive/2020-dreamland/06.jpg"
     ]
+  },
+  {
+    "type": "archive",
+    "id": "18-young-artist",
+    "title": "YOUNG ARTIST CONTEST | 단체전",
+    "year": 2018,
+    "caption": "2018년 8월 1일 - 8월 24일",
+    "info": [
+      {
+        "title": "장소",
+        "text": "갤러리위"
+      },
+      {
+        "title": "주최·주관",
+        "text": "IYAA, 갤러리위"
+      },
+      {
+        "title": "후원",
+        "text": "한국미술협회, 서울문화홍보원"
+      }
+    ],
+    "thumb": "img/archive/2018-young-artist/thumb.jpg",
+    "imgs": [
+      "img/archive/2018-young-artist/thumb.jpg",
+      "img/archive/2018-young-artist/02.jpg"
+    ]
   }
 ]
