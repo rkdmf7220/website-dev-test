@@ -65,6 +65,12 @@
           "title": "Prize and Support",
           "items": [
             {
+              "year": "2023",
+              "text": [
+                "Incheon Foundation For Arts & Culture ‘Artist Support Project’"
+              ]
+            },
+            {
               "year": "2021",
               "text": [
                 "Gwangmyeong Cultural Foundation ‘Young Artist Support Project’"
@@ -170,6 +176,12 @@
         "title": "Prize and Support",
         "items": [
           {
+            "year": "2023",
+            "text": [
+              "Incheon Foundation For Arts & Culture ‘Artist Support Project’"
+            ]
+          },
+          {
             "year": "2021",
             "text": [
               "Gwangmyeong Cultural Foundation ‘Young Artist Support Project’"
@@ -217,7 +229,13 @@
           {
             "year": "2021",
             "text": [
-              "CA BOOKS 『#254 Contactless』"
+              "CA BOOKS #254 『Contactless』"
+            ]
+          },
+          {
+            "year": "2017",
+            "text": [
+              "Creator #9 『IDEA OF CREATION』| Interview"
             ]
           }
         ]
