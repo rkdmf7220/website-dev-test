@@ -8,7 +8,19 @@
           {
             "year": null,
             "text": [
-              "Born in 1999 Seoul, South Korea"
+              "Born in 1999 Seoul, South Korea",
+              "Lives and works in Incheon and Seoul, South Korea"
+            ]
+          }
+        ]
+      },
+      "prizeArchive": {
+        "title": "Education",
+        "items": [
+          {
+            "year": "2020",
+            "text": [
+              "Myeongji College, Seoul, South Korea"
             ]
           }
         ]
@@ -67,14 +79,14 @@
             {
               "year": "2023",
               "text": [
-                "Artist support project, Incheon Foundation For Arts & Culture",
-                "Young artist activation support project, Incheon Foundation For Arts & Culture"
+                "Space ilbu | Incheon Foundation For Arts & Culture grant",
+                "Incheon Foundation For Arts & Culture grant"
               ]
             },
             {
               "year": "2021",
               "text": [
-                "Young artist support project, Gwangmyeong Cultural Foundation"
+                "Gwangmyeong Cultural Foundation grant"
               ]
             }
           ]
@@ -174,19 +186,19 @@
         ]
       },
       "prizeArchive": {
-        "title": "Prize and Support",
+        "title": "Awards and Grants",
         "items": [
           {
             "year": "2023",
             "text": [
-              "Artist support project, Incheon Foundation For Arts & Culture",
-              "Young artist activation support project, Incheon Foundation For Arts & Culture"
+              "Space ilbu | Incheon Foundation For Arts & Culture grant",
+              "Incheon Foundation For Arts & Culture grant"
             ]
           },
           {
             "year": "2021",
             "text": [
-              "Young artist support project, Gwangmyeong Cultural Foundation"
+              "Gwangmyeong Cultural Foundation grant"
             ]
           }
         ]
@@ -222,6 +234,12 @@
       "References": {
         "title": "References",
         "items": [
+          {
+            "year": "2023",
+            "text": [
+              "CICA PRESS 『CICA ART NOW 2023』"
+            ]
+          },
           {
             "year": "2022",
             "text": [
