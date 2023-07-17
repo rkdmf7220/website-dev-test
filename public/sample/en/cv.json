@@ -14,19 +14,8 @@
           }
         ]
       },
-      "Education": {
-        "title": "Education",
-        "items": [
-          {
-            "year": "2020",
-            "text": [
-              "Myeongji College, Seoul, South Korea"
-            ]
-          }
-        ]
-      },
         "soloExhibition": {
-          "title": "Solo Exhibition",
+          "title": "Solo Exhibitions",
           "items": [
             {
               "year": "2022",
@@ -43,7 +32,7 @@
           ]
         },
         "groupExhibition": {
-          "title": "Group Exhibition",
+          "title": "Group Exhibitions",
           "items": [
             {
               "year": "2023",
@@ -74,13 +63,13 @@
           ]
         },
         "prizeArchive": {
-          "title": "Prize and Support",
+          "title": "Awards and Grants",
           "items": [
             {
               "year": "2023",
               "text": [
-                "Space ilbu | Incheon Foundation For Arts & Culture grant",
-                "Incheon Foundation For Arts & Culture grant"
+                "Incheon Foundation For Arts & Culture grant",
+                "Incheon Foundation For Arts & Culture, Space ilbu grant"
               ]
             },
             {
@@ -92,7 +81,7 @@
           ]
         },
         "division": {
-          "title": "Division",
+          "title": "Divisions",
           "items": [
             {
               "year": "2022 -",
@@ -125,7 +114,7 @@
         ]
       },
       "soloExhibition": {
-        "title": "Solo Exhibition",
+        "title": "Solo Exhibitions",
         "items": [
           {
             "year": "2022",
@@ -148,7 +137,7 @@
         ]
       },
       "groupExhibition": {
-        "title": "Group Exhibition",
+        "title": "Group Exhibitions",
         "items": [
           {
             "year": "2023",
@@ -191,8 +180,8 @@
           {
             "year": "2023",
             "text": [
-              "Space ilbu | Incheon Foundation For Arts & Culture grant",
-              "Incheon Foundation For Arts & Culture grant"
+              "Incheon Foundation For Arts & Culture grant",
+              "Incheon Foundation For Arts & Culture, Space ilbu grant"
             ]
           },
           {
@@ -215,7 +204,7 @@
         ]
       },
       "division": {
-        "title": "Division",
+        "title": "Divisions",
         "items": [
           {
             "year": "2022 -",
@@ -243,7 +232,7 @@
           {
             "year": "2022",
             "text": [
-              "Workroom Specter 『Vibrating Birds and Handwritten Letter』| Exhibition catalogue"
+              "Workroom Specter 『Vibrating Birds and Handwritten Letter』"
             ]
           },
           {
@@ -256,7 +245,7 @@
           {
             "year": "2017",
             "text": [
-              "Creator #9 『IDEA OF CREATION』| Interview"
+              "Creator #9 『IDEA OF CREATION』 Interview"
             ]
           }
         ]
