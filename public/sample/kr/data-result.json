@@ -513,13 +513,20 @@
         "text": "2672-0345 35"
       },
       {
+        "title": "주소",
+        "text": "www.cicamuseum.com/cicapress/cica-art-now-2023/"
+      },
+      {
         "title": "소개",
-        "text": "CICA ART NOW는 동시대 청년 예술인 52명의 개인전 시리즈와 작가들을 엮은 도록입니다."
+        "text": "CICA ART NOW는 동시대 청년 예술인 52명의 CICA 미술관 개인전 시리즈와 작가들을 엮은 책입니다."
       }
     ],
     "thumb": "img/news/23-CICA PRESS CICA ART NOW 2023/01.jpg",
     "imgs": [
-      "img/news/23-CICA PRESS CICA ART NOW 2023/01.jpg"
+      "img/news/23-CICA PRESS CICA ART NOW 2023/01.jpg",
+      "img/news/23-CICA PRESS CICA ART NOW 2023/02.jpg",
+      "img/news/23-CICA PRESS CICA ART NOW 2023/03.jpg",
+      "img/news/23-CICA PRESS CICA ART NOW 2023/04.jpg"
     ]
   },
   {
@@ -565,6 +572,10 @@
       {
         "title": "ISBN",
         "text": "9791189356880"
+      },
+      {
+        "title": "주소",
+        "text": "www.workroompress.kr/books/vibrating-bird-and-handwritten-letter"
       },
       {
         "title": "소개",
