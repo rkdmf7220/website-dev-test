@@ -63,7 +63,7 @@
         ]
       },
       "prizeArchive": {
-        "title": "수상 및 지원",
+        "title": "수상 및 기금",
         "items": [
           {
             "year": "2023",
@@ -76,23 +76,6 @@
             "year": "2021",
             "text": [
               "청년 예술가 지원 사업 선정, 광명문화재단"
-            ]
-          }
-        ]
-      },
-      "division": {
-        "title": "소속",
-        "items": [
-          {
-            "year": "2022 -",
-            "text": [
-              "OBSERVER: SCULPTURE (OS) | 구성원"
-            ]
-          },
-          {
-            "year": "2020 -",
-            "text": [
-              "한국타이포그라피학회 | 정회원"
             ]
           }
         ]
@@ -175,7 +158,7 @@
         ]
       },
       "prizeArchive": {
-        "title": "수상 및 지원",
+        "title": "수상 및 기금",
         "items": [
           {
             "year": "2023",
