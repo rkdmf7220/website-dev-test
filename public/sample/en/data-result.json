@@ -379,6 +379,17 @@
   },
   {
     "type": "typography",
+    "id": "book-Dream Land-assemblogy",
+    "title": "Dream Land·assemblogy",
+    "year": 2023,
+    "caption": "2023, Offset, Perfect binding, 203 x 254mm, 72page",
+    "thumb": "img/typography/spaceship/01.jpg",
+    "imgs": [
+      "img/typography/spaceship/01.jpg"
+    ]
+  },
+  {
+    "type": "typography",
     "id": "spaceship",
     "title": "Wrecked but seemingly undamaged spcaeship",
     "year": 2022,
@@ -394,9 +405,9 @@
     "title": "Assemblogy: compose and combine poster",
     "year": 2022,
     "caption": "2021, print on paper, 59.4 x 84.1cm",
-    "thumb": "img/typography/assemblogy/01.jpg",
+    "thumb": "img/news/23-Dream Land-assemblogy/01.jpg",
     "imgs": [
-      "img/typography/assemblogy/01.jpg"
+      "img/news/23-Dream Land-assemblogy/01.jpg"
     ]
   },
   {
@@ -510,16 +521,17 @@
         "text": "Independent Publishing"
       },
       {
+        "title": "Specification",
+        "text": "Offset, Perfect binding, 203 x 254mm, 72page"
+      },
+      {
         "title": "Introduction",
         "text": "Dreamland·assemblogy is a catalog that compiles individual exhibitions held at the Gwangmyeong Civic Center and CICA Museum, featuring artist's notes and a curator's essay by Haesun Chung."
       }
     ],
-    "thumb": "img/news/23-CICA PRESS CICA ART NOW 2023/01.jpg",
+    "thumb": "img/news/23-Dream Land-assemblogy/01.jpg",
     "imgs": [
-      "img/news/23-CICA PRESS CICA ART NOW 2023/01.jpg",
-      "img/news/23-CICA PRESS CICA ART NOW 2023/02.jpg",
-      "img/news/23-CICA PRESS CICA ART NOW 2023/03.jpg",
-      "img/news/23-CICA PRESS CICA ART NOW 2023/04.jpg"
+      "img/news/23-Dream Land-assemblogy/01.jpg"
     ]
   },
   {

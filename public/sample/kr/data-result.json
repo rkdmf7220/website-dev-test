@@ -378,6 +378,17 @@
   },
   {
     "type": "typography",
+    "id": "book-Dream Land-assemblogy",
+    "title": "드림랜드·조립학",
+    "year": 2023,
+    "caption": "2023, 오프셋 인쇄, 무선제본, 203 x 254mm, 72쪽",
+    "thumb": "img/news/23-Dream Land-assemblogy/01.jpg",
+    "imgs": [
+      "img/news/23-Dream Land-assemblogy/01.jpg"
+    ]
+  },
+  {
+    "type": "typography",
     "id": "spaceship",
     "title": "겉보기에 손상은 없었으나 마치 난파된 것 같은 우주선",
     "year": 2022,
@@ -509,16 +520,17 @@
         "text": "독립 출판"
       },
       {
+        "title": "사양",
+        "text": "오프셋인쇄, 무선제본, 203 x 254mm, 72쪽"
+      },
+      {
         "title": "소개",
         "text": "광명시민회관, CICA 미술관에서의 개인전, 작가노트, 정해선 큐레이터의 글을 엮은 도록입니다."
       }
     ],
     "thumb": "img/news/23-CICA PRESS CICA ART NOW 2023/01.jpg",
     "imgs": [
-      "img/news/23-CICA PRESS CICA ART NOW 2023/01.jpg",
-      "img/news/23-CICA PRESS CICA ART NOW 2023/02.jpg",
-      "img/news/23-CICA PRESS CICA ART NOW 2023/03.jpg",
-      "img/news/23-CICA PRESS CICA ART NOW 2023/04.jpg"
+      "img/news/23-Dream Land-assemblogy/01.jpg"
     ]
   },
   {
