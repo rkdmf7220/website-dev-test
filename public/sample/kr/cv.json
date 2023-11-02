@@ -157,6 +157,17 @@
           }
         ]
       },
+      "project": {
+        "title": "프로젝트",
+        "items": [
+          {
+            "year": "2023",
+            "text": [
+              "형태의 뿌리: 문자와 타이포그라피 (온라인)"
+            ]
+          }
+        ]
+      },
       "prizeArchive": {
         "title": "수상 및 기금",
         "items": [
@@ -209,6 +220,7 @@
           {
             "year": "2023",
             "text": [
+              "손원혁 『드림랜드·조립학』",
               "CICA PRESS 『CICA ART NOW 2023』"
             ]
           },
