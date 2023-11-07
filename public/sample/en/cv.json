@@ -214,6 +214,17 @@
           }
         ]
       },
+      "Publication": {
+        "title": "Publication",
+        "items": [
+          {
+            "year": "2023",
+            "text": [
+              "『Dream Land·assemblogy』, Independent Publishing"
+            ]
+          }
+        ]
+      },
       "References": {
         "title": "References",
         "items": [
