@@ -383,9 +383,19 @@
     "title": "Dream Land·assemblogy",
     "year": 2023,
     "caption": "2023, Offset, Perfect binding, 203 x 254mm, 72page",
-    "thumb": "img/typography/spaceship/01.jpg",
+    "thumb": "img/typography/23-Dream Land-assemblogy/01.jpg",
     "imgs": [
-      "img/typography/spaceship/01.jpg"
+      "img/typography/23-Dream Land-assemblogy/01.jpg",
+      "img/typography/23-Dream Land-assemblogy/02.jpg",
+      "img/typography/23-Dream Land-assemblogy/03.jpg",
+      "img/typography/23-Dream Land-assemblogy/04.jpg",
+      "img/typography/23-Dream Land-assemblogy/05.jpg",
+      "img/typography/23-Dream Land-assemblogy/06.jpg",
+      "img/typography/23-Dream Land-assemblogy/07.jpg",
+      "img/typography/23-Dream Land-assemblogy/08.jpg",
+      "img/typography/23-Dream Land-assemblogy/09.jpg",
+      "img/typography/23-Dream Land-assemblogy/10.jpg",
+      "img/typography/23-Dream Land-assemblogy/11.jpg"
     ]
   },
   {
@@ -525,13 +535,45 @@
         "text": "Offset, Perfect binding, 203 x 254mm, 72page"
       },
       {
+        "title": "Edited, Designed by",
+        "text": "Wonhyuk Son"
+      },
+      {
+        "title": "Written by",
+        "text": "Haesun Chung"
+      },
+      {
+        "title": "Translated by",
+        "text": "Seoulselection"
+      },
+      {
+        "title": "Photo by",
+        "text": "Heesang Ahn, Gwangmyeong Foundation for Arts and Culture"
+      },
+      {
+        "title": "Thanks to",
+        "text": "Jisook moon, Sungwoon Yoo"
+      },
+      {
+        "title": "Printed by",
+        "text": "Intime"
+      },
+      {
+        "title": "Sponsored by",
+        "text": "Incheon Metropolitan City, Incheon Foundation for Arts and Culture, Space Ilbu"
+      },
+      {
         "title": "Introduction",
         "text": "Dreamland·assemblogy is a catalog that compiles individual exhibitions held at the Gwangmyeong Civic Center and CICA Museum, featuring artist's notes and a curator's essay by Haesun Chung."
       }
     ],
-    "thumb": "img/news/23-Dream Land-assemblogy/01.jpg",
+    "thumb": "img/typography/23-Dream Land-assemblogy/01.jpg",
     "imgs": [
-      "img/news/23-Dream Land-assemblogy/01.jpg"
+      "img/typography/23-Dream Land-assemblogy/01.jpg",
+      "img/typography/23-Dream Land-assemblogy/02.jpg",
+      "img/typography/23-Dream Land-assemblogy/03.jpg",
+      "img/typography/23-Dream Land-assemblogy/08.jpg",
+      "img/typography/23-Dream Land-assemblogy/10.jpg"
     ]
   },
   {

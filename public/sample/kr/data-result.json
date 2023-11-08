@@ -381,10 +381,20 @@
     "id": "book-Dream Land-assemblogy",
     "title": "드림랜드·조립학",
     "year": 2023,
-    "caption": "2023, 오프셋 인쇄, 무선제본, 203 x 254mm, 72쪽",
-    "thumb": "img/news/23-Dream Land-assemblogy/01.jpg",
+    "caption": "2023, 오프셋 인쇄, 무선제본, 203 x 254mm, 72쪽\n 편집•디자인 | 손원혁\n글ㅣ정해선 (@haesun_ny_)\n번역•감수 | 서울셀렉션(@seoulselection_translation)\n사진 | 안희상, 광명문화재단 (@gmcf.official)\n도움 | 문지숙, 유성운 (@moonjsook)\n인쇄 | 인타임\n후원 | 인천광역시, 인천문화재단, 시작공간일부 (@incheon_gov), (@ifacpr), (@space1bu)",
+    "thumb": "img/typography/23-Dream Land-assemblogy/01.jpg",
     "imgs": [
-      "img/news/23-Dream Land-assemblogy/01.jpg"
+      "img/typography/23-Dream Land-assemblogy/01.jpg",
+      "img/typography/23-Dream Land-assemblogy/02.jpg",
+      "img/typography/23-Dream Land-assemblogy/03.jpg",
+      "img/typography/23-Dream Land-assemblogy/04.jpg",
+      "img/typography/23-Dream Land-assemblogy/05.jpg",
+      "img/typography/23-Dream Land-assemblogy/06.jpg",
+      "img/typography/23-Dream Land-assemblogy/07.jpg",
+      "img/typography/23-Dream Land-assemblogy/08.jpg",
+      "img/typography/23-Dream Land-assemblogy/09.jpg",
+      "img/typography/23-Dream Land-assemblogy/10.jpg",
+      "img/typography/23-Dream Land-assemblogy/11.jpg"
     ]
   },
   {
@@ -556,9 +566,13 @@
         "text": "광명시민회관, CICA 미술관에서의 개인전, 작가노트, 정해선 큐레이터의 글을 엮은 도록입니다."
       }
     ],
-    "thumb": "img/news/23-CICA PRESS CICA ART NOW 2023/01.jpg",
+    "thumb": "img/typography/23-Dream Land-assemblogy/01.jpg",
     "imgs": [
-      "img/news/23-Dream Land-assemblogy/01.jpg"
+      "img/typography/23-Dream Land-assemblogy/01.jpg",
+      "img/typography/23-Dream Land-assemblogy/02.jpg",
+      "img/typography/23-Dream Land-assemblogy/03.jpg",
+      "img/typography/23-Dream Land-assemblogy/08.jpg",
+      "img/typography/23-Dream Land-assemblogy/10.jpg"
     ]
   },
   {
