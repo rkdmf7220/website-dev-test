@@ -79,8 +79,19 @@
               ]
             }
           ]
-        }
+        },
+      "Publication": {
+        "title": "Publication",
+        "items": [
+          {
+            "year": "2023",
+            "text": [
+              "『Dream Land·assemblogy』 Independent Publishing"
+            ]
+          }
+        ]
       }
+    }
     },
   "fullCv": {
     "name": "Full CV",
@@ -163,7 +174,7 @@
           {
             "year": "2023",
             "text": [
-              "Orgin of forms: Letters and typography (Online)"
+              "Orgin of forms: Letters and typography (Online exhibition)"
             ]
           }
         ]
@@ -220,7 +231,7 @@
           {
             "year": "2023",
             "text": [
-              "『Dream Land·assemblogy』, Independent Publishing"
+              "『Dream Land·assemblogy』 Independent Publishing"
             ]
           }
         ]
