@@ -232,6 +232,17 @@
   },
   {
     "type": "painting",
+    "id": "Block 20231002",
+    "title": "Block 20231002",
+    "year": 2023,
+    "caption": "2023, Acrylic on canvas, 45.5x45.5cm",
+    "thumb": "img/painting/Block 20231002/01.jpg",
+    "imgs": [
+      "img/painting/Block 20231002/01.jpg"
+    ]
+  },
+  {
+    "type": "painting",
     "id": "Assembly 20230930",
     "title": "Assembly 20230930",
     "year": 2023,
@@ -254,39 +265,39 @@
   },
   {
     "type": "painting",
-    "id": "Assembly 20230801",
-    "title": "Assembly 20230801",
+    "id": "Assembly 20230901",
+    "title": "Assembly 20230901",
     "year": 2023,
     "caption": "2023, Colored lego brick and acrylic on canvas, 76.6x32.3cm (4ea)",
-    "thumb": "img/painting/Assembly 20230801/01.jpg",
+    "thumb": "img/painting/Assembly 20230901/01.jpg",
     "imgs": [
-      "img/painting/Assembly 20230801/01.jpg",
-      "img/painting/Assembly 20230801/02.jpg",
-      "img/painting/Assembly 20230801/03.jpg",
-      "img/painting/Assembly 20230801/04.jpg",
-      "img/painting/Assembly 20230801/05.jpg"
+      "img/painting/Assembly 20230901/01.jpg",
+      "img/painting/Assembly 20230901/02.jpg",
+      "img/painting/Assembly 20230901/03.jpg",
+      "img/painting/Assembly 20230901/04.jpg",
+      "img/painting/Assembly 20230901/05.jpg"
     ]
   },
   {
     "type": "painting",
-    "id": "Assembly 20230404",
-    "title": "Assembly 20230404",
+    "id": "Assembly 20230904",
+    "title": "Assembly 20230904",
     "year": 2023,
     "caption": "2023, Colored lego brick and acrylic on canvas, 80.3x80.3cm",
-    "thumb": "img/painting/Assembly 20230404/01.jpg",
+    "thumb": "img/painting/Assembly 20230904/01.jpg",
     "imgs": [
-      "img/painting/Assembly 20230404/01.jpg"
+      "img/painting/Assembly 20230904/01.jpg"
     ]
   },
   {
     "type": "painting",
-    "id": "Assembly 20230119",
-    "title": "Assembly 20230119",
+    "id": "Assembly 20230919",
+    "title": "Assembly 20230919",
     "year": 2023,
     "caption": "2023, Colored lego brick and acrylic on canvas, 72.7x53cm",
-    "thumb": "img/painting/Assembly 20230119/01.jpg",
+    "thumb": "img/painting/Assembly 20230919/01.jpg",
     "imgs": [
-      "img/painting/Assembly 20230119/01.jpg"
+      "img/painting/Assembly 20230919/01.jpg"
     ]
   },
   {
