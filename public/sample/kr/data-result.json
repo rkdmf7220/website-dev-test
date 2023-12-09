@@ -2,7 +2,7 @@
   {
     "type": "sculpture",
     "id": "assemble-sculpture2",
-    "title": "조립 조각 221116",
+    "title": "조립 조각 22-1",
     "year": 2022,
     "thumb": "img/sculpture/assemblesculpture2/01.jpg",
     "imgs": [
@@ -152,7 +152,7 @@
   },
   {
     "type": "painting",
-    "id": "Assembly 20231107",
+    "id": "Assembly 20231107-2",
     "title": "조립",
     "year": 2023,
     "caption": "2023, 캔버스에 아크릴 및 채색된 레고, 72.7x60.6cm",
@@ -163,7 +163,7 @@
   },
   {
     "type": "painting",
-    "id": "Assembly 20231107",
+    "id": "Assembly 20231107-1",
     "title": "조립",
     "year": 2023,
     "caption": "2023, 캔버스에 아크릴 및 채색된 레고, 72.7x60.6cm",
@@ -185,7 +185,7 @@
   },
   {
     "type": "painting",
-    "id": "Assembly 20231028",
+    "id": "Assembly 20231028-2",
     "title": "조립",
     "year": 2023,
     "caption": "2023, 캔버스에 아크릴 및 채색된 레고, 116.8x91cm",
@@ -196,7 +196,7 @@
   },
   {
     "type": "painting",
-    "id": "Assembly 20231028",
+    "id": "Assembly 20231028-1",
     "title": "조립",
     "year": 2023,
     "caption": "2023, 캔버스에 아크릴 및 채색된 레고, 116.8x91cm",
@@ -262,7 +262,7 @@
   },
   {
     "type": "painting",
-    "id": "블록 20231002",
+    "id": "block 20231002",
     "title": "블록",
     "year": 2023,
     "caption": "2023, 캔버스에 아크릴, 45.5x45.5cm",
@@ -284,7 +284,7 @@
   },
   {
     "type": "painting",
-    "id": "Assembly 20230911",
+    "id": "Assembly 20230911-2",
     "title": "조립",
     "year": 2023,
     "caption": "2023, 캔버스에 아크릴 및 채색된 레고, 116.8x72.7cm",
@@ -295,7 +295,7 @@
   },
   {
     "type": "painting",
-    "id": "Assembly 20230911",
+    "id": "Assembly 20230911-1",
     "title": "조립",
     "year": 2023,
     "caption": "2023, 캔버스에 아크릴 및 채색된 레고, 116.8x72.7cm",
@@ -317,7 +317,7 @@
   },
   {
     "type": "painting",
-    "id": "Assembly 20230801",
+    "id": "Assembly 20230801-4",
     "title": "조립",
     "year": 2023,
     "caption": "2023, 캔버스에 아크릴 및 채색된 레고, 76.6x32.3cm",
@@ -328,7 +328,7 @@
   },
   {
     "type": "painting",
-    "id": "Assembly 20230801",
+    "id": "Assembly 20230801-3",
     "title": "조립",
     "year": 2023,
     "caption": "2023, 캔버스에 아크릴 및 채색된 레고, 76.6x32.3cm",
@@ -339,7 +339,7 @@
   },
   {
     "type": "painting",
-    "id": "Assembly 20230801",
+    "id": "Assembly 20230801-2",
     "title": "조립",
     "year": 2023,
     "caption": "2023, 캔버스에 아크릴 및 채색된 레고, 76.6x32.3cm",
@@ -350,7 +350,7 @@
   },
   {
     "type": "painting",
-    "id": "Assembly 20230801",
+    "id": "Assembly 20230801-1",
     "title": "조립",
     "year": 2023,
     "caption": "2023, 캔버스에 아크릴 및 채색된 레고, 76.6x32.3cm",
@@ -470,7 +470,7 @@
   {
     "type": "painting",
     "id": "block211128",
-    "title": "블록 211128",
+    "title": "블록 21-2",
     "year": 2021,
     "caption": "2021, 캔버스에 아크릴, 가변크기",
     "thumb": "img/painting/block211128/01.jpg",
@@ -676,7 +676,7 @@
   {
     "type": "painting",
     "id": "block210929",
-    "title": "블록 210929",
+    "title": "블록 21-1",
     "year": 2021,
     "caption": "2021, 캔버스에 아크릴, 가변크기",
     "thumb": "img/painting/block210929/01.jpg",
@@ -742,7 +742,7 @@
   {
     "type": "painting",
     "id": "block201015",
-    "title": "블록 201015",
+    "title": "블록 20-1",
     "year": 2020,
     "caption": "2020, 캔버스에 아크릴, 가변크기",
     "thumb": "img/painting/block201015/01.jpg",
@@ -1216,6 +1216,7 @@
       "img/archive/2022-assemblogy/07.jpg",
       "img/archive/2022-assemblogy/01.jpg",
       "img/archive/2022-assemblogy/03.jpg",
+      "img/painting/harmony/03.jpg",
       "img/archive/2022-assemblogy/04.jpg"
     ]
   },
