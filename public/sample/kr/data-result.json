@@ -483,7 +483,7 @@
   },
   {
     "type": "painting",
-    "id": "assemble-abstract",
+    "id": "assemble-abstract-16",
     "title": "조립 추상",
     "year": 2021,
     "caption": "2021, 캔버스에 아크릴, 80.3cm x 80.3cm",
@@ -495,7 +495,7 @@
   },
   {
     "type": "painting",
-    "id": "assemble-abstract",
+    "id": "assemble-abstract-15",
     "title": "조립 추상",
     "year": 2021,
     "caption": "2021, 캔버스에 아크릴, 80.3cm x 80.3cm",
@@ -507,7 +507,7 @@
   },
   {
     "type": "painting",
-    "id": "assemble-abstract",
+    "id": "assemble-abstract-14",
     "title": "조립 추상",
     "year": 2021,
     "caption": "2021, 캔버스에 아크릴, 80.3cm x 80.3cm",
@@ -519,7 +519,7 @@
   },
   {
     "type": "painting",
-    "id": "assemble-abstract",
+    "id": "assemble-abstract-13",
     "title": "조립 추상",
     "year": 2021,
     "caption": "2021, 캔버스에 아크릴, 80.3cm x 80.3cm",
@@ -531,7 +531,7 @@
   },
   {
     "type": "painting",
-    "id": "assemble-abstract",
+    "id": "assemble-abstract-12",
     "title": "조립 추상",
     "year": 2021,
     "caption": "2021, 캔버스에 아크릴, 80.3cm x 80.3cm",
@@ -543,7 +543,7 @@
   },
   {
     "type": "painting",
-    "id": "assemble-abstract",
+    "id": "assemble-abstract-11",
     "title": "조립 추상",
     "year": 2021,
     "caption": "2021, 캔버스에 아크릴, 80.3cm x 80.3cm",
@@ -555,7 +555,7 @@
   },
   {
     "type": "painting",
-    "id": "assemble-abstract",
+    "id": "assemble-abstract-10",
     "title": "조립 추상",
     "year": 2021,
     "caption": "2021, 캔버스에 아크릴, 80.3cm x 80.3cm",
@@ -567,7 +567,7 @@
   },
   {
     "type": "painting",
-    "id": "assemble-abstract",
+    "id": "assemble-abstract-9",
     "title": "조립 추상",
     "year": 2021,
     "caption": "2021, 캔버스에 아크릴, 80.3cm x 80.3cm",
@@ -579,7 +579,7 @@
   },
   {
     "type": "painting",
-    "id": "assemble-abstract",
+    "id": "assemble-abstract-8",
     "title": "조립 추상",
     "year": 2021,
     "caption": "2021, 캔버스에 아크릴, 80.3cm x 80.3cm",
@@ -591,7 +591,7 @@
   },
   {
     "type": "painting",
-    "id": "assemble-abstract",
+    "id": "assemble-abstract-7",
     "title": "조립 추상",
     "year": 2021,
     "caption": "2021, 캔버스에 아크릴, 80.3cm x 80.3cm",
@@ -603,7 +603,7 @@
   },
   {
     "type": "painting",
-    "id": "assemble-abstract",
+    "id": "assemble-abstract-6",
     "title": "조립 추상",
     "year": 2021,
     "caption": "2021, 캔버스에 아크릴, 80.3cm x 80.3cm",
@@ -615,7 +615,7 @@
   },
   {
     "type": "painting",
-    "id": "assemble-abstract",
+    "id": "assemble-abstract-5",
     "title": "조립 추상",
     "year": 2021,
     "caption": "2021, 캔버스에 아크릴, 80.3cm x 80.3cm",
@@ -627,7 +627,7 @@
   },
   {
     "type": "painting",
-    "id": "assemble-abstract",
+    "id": "assemble-abstract-4",
     "title": "조립 추상",
     "year": 2021,
     "caption": "2021, 캔버스에 아크릴, 80.3cm x 80.3cm",
@@ -639,7 +639,7 @@
   },
   {
     "type": "painting",
-    "id": "assemble-abstract",
+    "id": "assemble-abstract-3",
     "title": "조립 추상",
     "year": 2021,
     "caption": "2021, 캔버스에 아크릴, 80.3cm x 80.3cm",
@@ -651,24 +651,26 @@
   },
   {
     "type": "painting",
-    "id": "assemble-abstract",
+    "id": "assemble-abstract-2",
     "title": "조립 추상",
     "year": 2021,
     "caption": "2021, 캔버스에 아크릴, 80.3cm x 80.3cm",
     "thumb": "img/painting/assemble/02.jpg",
     "imgs": [
-      "img/painting/assemble/02.jpg"
+      "img/painting/assemble/02.jpg",
+      "img/painting/assemble/thumb.jpg"
     ]
   },
   {
     "type": "painting",
-    "id": "assemble-abstract",
+    "id": "assemble-abstract-1",
     "title": "조립 추상",
     "year": 2021,
     "caption": "2021, 캔버스에 아크릴, 80.3cm x 80.3cm",
     "thumb": "img/painting/assemble/01.jpg",
     "imgs": [
-      "img/painting/assemble/01.jpg"
+      "img/painting/assemble/01.jpg",
+      "img/painting/assemble/thumb.jpg"
     ]
   },
   {
@@ -1199,6 +1201,10 @@
       {
         "title": "디자인",
         "text": "손원혁"
+      },
+      {
+        "title": "도움",
+        "text": "이상민"
       }
     ],
     "thumb": "img/archive/2022-assemblogy/thumb.jpg",
