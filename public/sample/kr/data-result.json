@@ -774,7 +774,7 @@
   {
     "type": "typography",
     "id": "book-Dream Land-assemblogy",
-    "title": "드림랜드·조립학",
+    "title": "드림랜드·조립학 | 책",
     "year": 2023,
     "caption": "2023, 오프셋 인쇄, 무선제본, 203 x 254mm, 72쪽",
     "thumb": "img/typography/23-Dream Land-assemblogy/01.jpg",
@@ -795,7 +795,7 @@
   {
     "type": "typography",
     "id": "spaceship",
-    "title": "겉보기에 손상은 없었으나 마치 난파된 것 같은 우주선",
+    "title": "겉보기에 손상은 없었으나 마치 난파된 것 같은 우주선 | 포스터",
     "year": 2022,
     "caption": "2022, 스크린 및 종이에 인쇄, 101.6 x 57.15cm(3840 x 2160px)",
     "thumb": "img/typography/spaceship/01.jpg",
@@ -806,7 +806,7 @@
   {
     "type": "typography",
     "id": "assemblogy",
-    "title": "조립학: 구성하고 조합하기 포스터",
+    "title": "조립학: 구성하고 조합하기 | 포스터",
     "year": 2022,
     "caption": "2022, 종이에 인쇄, 59.4 x 84.1cm",
     "thumb": "img/typography/assemblogy/01.jpg",
@@ -817,7 +817,7 @@
   {
     "type": "typography",
     "id": "blue-wedge",
-    "title": "푸른색 쐐기로 붉은색을 쳐라",
+    "title": "푸른색 쐐기로 붉은색을 쳐라 | 포스터",
     "year": 2022,
     "caption": "2022, 종이에 인쇄, 29.9 x 24.1cm",
     "thumb": "img/typography/blue-wedge/01.jpg",
@@ -829,7 +829,7 @@
   {
     "type": "typography",
     "id": "poster-buddha",
-    "title": "Dream Land : color 포스터",
+    "title": "Dream Land : color | 포스터",
     "year": 2021,
     "caption": "2021, 종이에 인쇄, 59.4 x 84.1cm",
     "thumb": "img/typography/buddha/01.jpg",
@@ -844,7 +844,7 @@
   {
     "type": "typography",
     "id": "rainwater",
-    "title": "빗물",
+    "title": "빗물 | 포스터",
     "year": 2021,
     "caption": "2021, 일러스트, 59.4 x 84.1cm",
     "thumb": "img/typography/rainwater/01.jpg",
@@ -856,7 +856,7 @@
   {
     "type": "typography",
     "id": "cycle-gestalt",
-    "title": "순환 (형태)",
+    "title": "순환 (형태) | 포스터",
     "year": 2020,
     "caption": "2020, 디지털프린팅, 59.4 x 84.1cm",
     "thumb": "img/typography/cycle/01.jpg",
@@ -871,7 +871,7 @@
   {
     "type": "typography",
     "id": "cycle-triangle",
-    "title": "순환 (세모)",
+    "title": "순환 (세모) | 포스터",
     "year": 2020,
     "caption": "2020, 디지털프린팅, 59.4 x 84.1cm",
     "thumb": "img/typography/cycle/02.jpg",
@@ -886,7 +886,7 @@
   {
     "type": "typography",
     "id": "cycle-circle",
-    "title": "순환 (원)",
+    "title": "순환 (원) | 포스터",
     "year": 2020,
     "caption": "2020, 디지털프린팅, 59.4 x 84.1cm",
     "thumb": "img/typography/cycle/03.jpg",
@@ -901,7 +901,7 @@
   {
     "type": "typography",
     "id": "cycle-square",
-    "title": "순환 (네모)",
+    "title": "순환 (네모) | 포스터",
     "year": 2020,
     "caption": "2020, 디지털프린팅, 59.4 x 84.1cm",
     "thumb": "img/typography/cycle/04.jpg",
