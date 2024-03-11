@@ -9,7 +9,7 @@
       "img/sculpture/assemblesculpture2/01.jpg",
       "img/sculpture/assemblesculpture2/02.jpg"
     ],
-    "caption": "2022, 판넬에 아크릴릭, 채색된 레고 블록, 가변크기 (각 50 x 50 x 94cm x 4개)"
+    "caption": "2022, 판넬에 아크릴릭, 채색된 레고 블록, 가변크기 94 x 50 x 50cm (4)"
   },
   {
     "type": "sculpture",
@@ -22,7 +22,7 @@
       "img/sculpture/assemblesculpture/02.jpg",
       "img/sculpture/assemblesculpture/03.jpg"
     ],
-    "caption": "2022, 판넬에 아크릴릭, 채색된 레고 블록, 가변크기 (각 50 x 50 x 94cm x 4개)"
+    "caption": "2022, 판넬에 아크릴릭, 채색된 레고 블록, 가변크기 94 x 50 x 50cm (4)"
   },
   {
     "type": "sculpture",
@@ -33,7 +33,7 @@
     "imgs": [
       "img/sculpture/composition-6/01.jpg"
     ],
-    "caption": "2022, 판넬에 아크릴릭, 채색된 레고 블록, 35 x 35 x 20cm"
+    "caption": "2022, 판넬에 아크릴릭, 채색된 레고 블록, 20 x 35 x 35cm"
   },
   {
     "type": "sculpture",
@@ -47,7 +47,7 @@
       "img/sculpture/buddha/03.jpg",
       "img/sculpture/buddha/04.jpg"
     ],
-    "caption": "2021, 캔버스에 실크스크린, TV, 레고 블록, 가변크기 (430 x 400 x 140cm)",
+    "caption": "2021, 캔버스에 실크스크린, TV, 레고 블록, 가변크기 (140 x430 x 400cm)",
     "text": "색의 순환과 부처의 확장.\n표정과 형태가 명확히 보이지 않는, 무한히 확장하며 수렴하는 무한(無限)의 흰색 부처가 투명한 부처를 바라본다.\n프리즘의 역할을 하는 투명한 부처의 얼굴을 지나 흰색 부처는 디지털의 원색인 RGB (빨강, 초록, 파랑)의 부처와 아날로그의 원색인 CMYK(시안, 마젠타, 노랑, 검정)의 부처로 확장한다.\n그렇게 프리즘으로 투과된 색은 무한의 부처로 다시 순환한다.\n모든 색은 순환하며 모든 색을 구현할 수 있으며 부처의 형태를 통해 확장되며 수렴된다.\n시작과 끝이 존재하지 않으며 끊임없이 확장하고 수렴하는 부처는 색으로 순환되는 모래시계 구조로 4-3-1-∞(무한)으로 순환한다.\n색으로 분리된 부처는 선을 상징하고, 프리즘으로 수렴되는 투명의 부처는 점을 상징하며, 분리된 선의 부처가 모인 무한의 색을 가진 다(多)부처는 면을 상징하여 점•선•면의 구조로 이루어져 있다."
   },
   {
@@ -75,7 +75,7 @@
     "id": "hunchback",
     "title": "꼽추",
     "year": 2020,
-    "caption": "2020, 레고 블록, 22.7 x 3 x 42.5cm",
+    "caption": "2020, 레고 블록, 42.5 x 22.7 x 3cm",
     "thumb": "img/sculpture/hunchback/04.jpg",
     "imgs": [
       "img/sculpture/hunchback/01.jpg",
@@ -95,7 +95,7 @@
     "id": "opera",
     "title": "오페라의 몰락",
     "year": 2019,
-    "caption": "2019, 레고 블록, 41 x 24 x94cm",
+    "caption": "2019, 레고 블록, 94 x 41 x 24cm",
     "thumb": "img/sculpture/opera/01.jpg",
     "imgs": [
       "img/sculpture/opera/01.jpg",
@@ -115,7 +115,7 @@
     "id": "cathedral",
     "title": "성 아틀라스 성당\n",
     "year": 2018,
-    "caption": "2018, 레고 블록, LED, 26 x 26 x 65cm",
+    "caption": "2018, 레고 블록, LED, 65 x 26 x 26cm",
     "thumb": "img/sculpture/cathedral/01.jpg",
     "imgs": [
       "img/sculpture/cathedral/01.jpg",
@@ -135,7 +135,7 @@
     "id": "guitar",
     "title": "밀레니엄팔콘 기타",
     "year": 2016,
-    "caption": "2016, 레고 블록, LED, 블루투스 스피커, 기타 줄, 94 x 33 x 14cm",
+    "caption": "2016, 레고 블록, LED, 블루투스 스피커, 기타 줄, 14 x 94 x 33cm",
     "thumb": "img/sculpture/guitar/01.jpg",
     "imgs": [
       "img/sculpture/guitar/01.jpg",
