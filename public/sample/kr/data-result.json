@@ -1056,6 +1056,39 @@
   },
   {
     "type": "archive",
+    "id": "24-assemblogy",
+    "title": "조립 | 개인전",
+    "year": 2024,
+    "caption": "2024년 10월 9일 - 10월 20일",
+    "info": [
+      {
+        "title": "장소",
+        "text": "부연"
+      },
+      {
+        "title": "글",
+        "text": "조윤지"
+      },
+      {
+        "title": "디자인",
+        "text": "문지숙"
+      },
+      {
+        "title": "사진",
+        "text": "안희상"
+      },
+      {
+        "title": "후원",
+        "text": "인천시, 인천문화재단, 시작공간일부"
+      }
+    ],
+    "thumb": "img/archive/2022-assemblogy/thumb.jpg",
+    "imgs": [
+      "img/archive/2022-assemblogy/thumb.jpg"
+    ]
+  },
+  {
+    "type": "archive",
     "id": "23-portrait",
     "title": "Portrait | 단체전",
     "year": 2023,
