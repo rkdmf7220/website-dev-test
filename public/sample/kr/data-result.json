@@ -915,6 +915,32 @@
   },
   {
     "type": "news",
+    "id": "24-T incheon",
+    "title": "아트·T 인천",
+    "year": 2024,
+    "caption": "2024년 11월 1일 - 12월 1일",
+    "info": [
+      {
+        "title": "주최·주관",
+        "text": "인천문화재단"
+      },
+      {
+        "title": "장소",
+        "text": "Cafe 태오"
+      },
+      {
+        "title": "후원",
+        "text": "인천광역시, 인천문화재단"
+      }
+    ],
+    "thumb": "img/news/24-T incheon/01.jpg",
+    "imgs": [
+      "img/news/24-T incheon/01.jpg",
+      "img/news/24-T incheon/02.jpg"
+    ]
+  },
+  {
+    "type": "news",
     "id": "23-Dream Land-assemblogy",
     "title": "드림랜드·조립학 | 출판",
     "year": 2023,
@@ -1052,6 +1078,39 @@
       "img/news/22-Vibrating Birds and Handwritten Letter/01.jpg",
       "img/news/22-Vibrating Birds and Handwritten Letter/02.png",
       "img/news/22-Vibrating Birds and Handwritten Letter/03.png"
+    ]
+  },
+  {
+    "type": "archive",
+    "id": "24-Wess",
+    "title": "WESS 전시후도록 | 단체전",
+    "year": 2024,
+    "caption": "2024년 12월 5일 - 12월 8일",
+    "info": [
+      {
+        "title": "장소",
+        "text": "다팜"
+      },
+      {
+        "title": "주최·주관",
+        "text": "WESS"
+      },
+      {
+        "title": "협력",
+        "text": "Adocs"
+      },
+      {
+        "title": "진행",
+        "text": "김지율"
+      },
+      {
+        "title": "디자인",
+        "text": "불도저"
+      }
+    ],
+    "thumb": "img/archive/2024-wess/01.jpg",
+    "imgs": [
+      "img/archive/2024-wess/01.jpg"
     ]
   },
   {
