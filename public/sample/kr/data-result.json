@@ -1115,21 +1115,62 @@
   },
   {
     "type": "archive",
+    "id": "24-observer",
+    "title": "일상의 조각 | 단체전",
+    "year": 2024,
+    "caption": "2024년 11월 15일 - 12월 7일",
+    "info": [
+      {
+        "title": "장소",
+        "text": "공간형옥"
+      },
+      {
+        "title": "주최·주관",
+        "text": "OS"
+      },
+      {
+        "title": "기획",
+        "text": "OS 기획팀 (김민훈, 김중균, 박고운)"
+      },
+      {
+        "title": "디자인",
+        "text": "OS"
+      },
+      {
+        "title": "사진",
+        "text": "양이언"
+      },
+      {
+        "title": "후원",
+        "text": "공간형"
+      }
+    ],
+    "thumb":"img/archive/2022-observer/07.jpg",
+    "imgs": [
+      "img/archive/2022-observer/thumb.jpg"
+    ]
+  },
+  {
+    "type": "archive",
     "id": "24-assembly",
     "title": "조립 | 개인전",
     "year": 2024,
     "caption": "2024년 10월 9일 - 10월 20일",
     "info": [
       {
+        "title": "주최·주관",
+        "text": "손원혁"
+      },
+      {
         "title": "장소",
         "text": "부연"
       },
       {
-        "title": "글",
+        "title": "서문/비평",
         "text": "조윤지"
       },
       {
-        "title": "디자인",
+        "title": "포스터 디자인",
         "text": "문지숙"
       },
       {
