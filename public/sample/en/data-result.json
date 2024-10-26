@@ -1115,6 +1115,39 @@
   },
   {
     "type": "archive",
+    "id": "24-observer",
+    "title": "Harmonic Drive | Group exhibition",
+    "year": 2024,
+    "caption": "November 15 - December 7, 2024",
+    "info": [
+      {
+        "title": "Venue",
+        "text": "Hyeong OK"
+      },
+      {
+        "title": "Organized by",
+        "text": "OS (Observer: Sculpture)"
+      },
+      {
+        "title": "Curated by",
+        "text": "OS Curator team"
+      },
+      {
+        "title": "Photo by",
+        "text": "Yang IAn"
+      },
+      {
+        "title": "Sponsored by",
+        "text": "Hyeong OK"
+      }
+    ],
+    "thumb":"img/archive/2024-observer/01.jpg",
+    "imgs": [
+      "img/archive/2024-observer/01.jpg"
+    ]
+  },
+  {
+    "type": "archive",
     "id": "24-assembly",
     "title": "Assembly | Solo exhibition",
     "year": 2024,
