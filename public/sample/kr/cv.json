@@ -37,13 +37,13 @@
         ]
       },
       "groupExhibition": {
-        "title": "단체전",
+        "title": "단체전 (*도록)",
         "items": [
           {
             "year": "2024",
             "text": [
               "WESS 전시후도록 (다팜, 서울)",
-              "Harmonic Drive (문라이즈킹덤, 서울)"
+              "Harmonic Drive (문라이즈킹덤, 서울)*"
             ]
           },
           {
@@ -135,13 +135,13 @@
         ]
       },
       "groupExhibition": {
-        "title": "단체전",
+        "title": "단체전 (*도록)",
         "items": [
           {
             "year": "2024",
             "text": [
               "WESS 전시후도록 (다팜, 서울)",
-              "Harmonic Drive (문라이즈킹덤, 서울)"
+              "Harmonic Drive (문라이즈킹덤, 서울)*"
             ]
           },
           {
