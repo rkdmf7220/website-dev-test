@@ -1,6 +1,18 @@
 [
   {
     "type": "sculpture",
+    "id": "assemble-sculpture24",
+    "title": "Assemble sculpture 24",
+    "year": 2024,
+    "thumb": "img/sculpture/assemblesculpture24/01.jpg",
+    "imgs": [
+      "img/sculpture/assemblesculpture24/01.jpg",
+      "img/sculpture/assemblesculpture24/02.jpg"
+    ],
+    "caption": "Collaboration with Plasterer, 2024, mortar, cement, mesh net, Acrylic on panel, Dimensions variable 37.9 x 37.9 x 2.5cm (8)"
+  },
+  {
+    "type": "sculpture",
     "id": "assemble-sculpture2",
     "title": "Assemble sculpture 22-1",
     "year": 2022,

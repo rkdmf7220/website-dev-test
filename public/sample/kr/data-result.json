@@ -1,6 +1,18 @@
 [
   {
     "type": "sculpture",
+    "id": "assemble-sculpture24",
+    "title": "조립 조각",
+    "year": 2024,
+    "thumb": "img/sculpture/assemblesculpture24/01.jpg",
+    "imgs": [
+      "img/sculpture/assemblesculpture24/01.jpg",
+      "img/sculpture/assemblesculpture24/02.jpg"
+    ],
+    "caption": "미장공 협업, 2024, 판넬에 모르타르, 시멘트, 메쉬망, 아크릴릭, 가변크기 37.9 x 37.9 x 2.5cm (8)"
+  },
+  {
+    "type": "sculpture",
     "id": "assemble-sculpture2",
     "title": "조립 조각 22-1",
     "year": 2022,
