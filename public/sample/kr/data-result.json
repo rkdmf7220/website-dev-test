@@ -1165,9 +1165,16 @@
         "text": "OS, 문라이즈킹덤"
       }
     ],
-    "thumb":"img/archive/2024-observer/01.jpg",
+    "thumb":"img/archive/2024-observer/thumb.jpg",
     "imgs": [
-      "img/archive/2024-observer/01.jpg"
+      "img/archive/2024-observer/thumb.jpg",
+      "img/archive/2024-observer/04.jpg",
+      "img/archive/2024-observer/05.jpg",
+      "img/archive/2024-observer/06.jpg",
+      "img/archive/2024-observer/07.jpg",
+      "img/archive/2024-observer/01.jpg",
+      "img/archive/2024-observer/02.jpg",
+      "img/archive/2024-observer/03.jpg"
     ]
   },
   {
