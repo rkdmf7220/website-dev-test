@@ -10,7 +10,7 @@ import PageTitle from "../components/PageTitle";
 import ContentsWithFilter from "../components/ContentsWithFilter.vue";
 
 export default {
-  name: "Typography",
+  name: "Archives",
   components: { ContentsWithFilter, PageTitle },
 };
 </script>
