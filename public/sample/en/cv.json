@@ -16,12 +16,12 @@
       "soloExhibition": {
         "title": "Solo Exhibitions",
         "items": [
-            {
-              "year": "2024",
-              "text": [
-                "Assembly (Buyeon, Incheon, Korea)"
-              ]
-            },
+          {
+            "year": "2024",
+            "text": [
+              "Assembly (Buyeon, Incheon, Korea)"
+            ]
+          },
           {
             "year": "2022",
             "text": [
@@ -90,7 +90,7 @@
           {
             "year": "2023",
             "text": [
-              "『Dream Land·assemblogy』 Independent Publishing"
+              "『Dream Land·assemblogy』, Independent Publishing"
             ]
           }
         ]
@@ -254,7 +254,7 @@
           {
             "year": "2023",
             "text": [
-              "『Dream Land·assemblogy』 Independent Publishing"
+              "『Dream Land·assemblogy』, Independent Publishing"
             ]
           }
         ]
