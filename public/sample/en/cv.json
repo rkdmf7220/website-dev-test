@@ -180,7 +180,7 @@
         ]
       },
       "project": {
-        "title": "Project",
+        "title": "Projects",
         "items": [
           {
             "year": "2023",
@@ -214,17 +214,6 @@
           }
         ]
       },
-      "ph": {
-        "title": "PH",
-        "items": [
-          {
-            "year": "2019",
-            "text": [
-              "AhnGraphics Publishers | Designer (intern)"
-            ]
-          }
-        ]
-      },
       "division": {
         "title": "Activities",
         "items": [
@@ -238,6 +227,12 @@
             "year": "2020 -",
             "text": [
               "Korean Society of Typography"
+            ]
+          },
+          {
+            "year": "2019",
+            "text": [
+              "AhnGraphics Publishers | Designer (intern)"
             ]
           }
         ]
