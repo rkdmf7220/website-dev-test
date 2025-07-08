@@ -20,7 +20,6 @@ export default {
   components: {SearchContentsList: SearchContentList, SearchFilter, PageTitle},
   computed: {
     searchedList() {
-      // return searchData(this.$route.params.keywords);
       return searchData(useStore().searchKeyword);
     },
     keywordsInRouteParams() {
@@ -62,5 +61,14 @@ export default {
 .search-wrap {
   width: calc(100% - 80px);
   display: flex;
+  margin-bottom: 64px;
+}
+
+@media screen and (max-width: 767px) {
+  .search-wrap {
+    width: 100%;
+    flex-direction: column;
+    gap: 24px;
+  }
 }
 </style>

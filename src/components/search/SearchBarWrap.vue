@@ -3,7 +3,8 @@
     <button @click="onClickSearchBtn" class="search-btn">
       <span :style="{backgroundImage: 'url(' + svgIcon.get('searchIcon') + ')'}" class="search-icon"></span>
     </button>
-    <input ref="searchInput" v-model="inputText" @keydown.enter="onHandleSearch" type="text" :class="{'is-show': showSearchInput}" :placeholder="'search'" class="search-input">
+    <input ref="searchInput" v-model="inputText" @keydown.enter="onHandleSearch" type="text"
+           :class="{'is-show': showSearchInput}" :placeholder="'search'" class="search-input">
   </div>
 </template>
 
@@ -108,6 +109,7 @@ export default {
     margin-left: 0;
     transition: width 0.3s, margin 0.3s;
     overflow: hidden;
+    background-color: transparent;
 
     &:focus {
       outline: none;
@@ -117,6 +119,12 @@ export default {
       width: 150px;
       margin-left: 4px;
     }
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .search-bar-wrap {
+    display: none;
   }
 }
 </style>
