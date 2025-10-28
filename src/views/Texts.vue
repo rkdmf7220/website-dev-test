@@ -1,7 +1,7 @@
 <template>
   <main class="wrap">
     <page-title />
-    <details v-for="(item, index) in reviewData" :key="index" :open="index === 1">
+    <details v-for="(item, index) in reviewData" :key="index">
       <summary>{{ item.title }}</summary>
       <p class="sub-title">{{ item.subTitle }}</p>
       <div
