@@ -1,7 +1,7 @@
 <template>
-  <div class="wrap">
+  <main class="wrap">
     <page-title />
-    <details v-for="(item, index) in reviewData" :key="index">
+    <details v-for="(item, index) in reviewData" :key="index" :open="index === 1">
       <summary>{{ item.title }}</summary>
       <p class="sub-title">{{ item.subTitle }}</p>
       <div
@@ -30,7 +30,7 @@
         </div>
       </div>
     </details>
-  </div>
+  </main>
 </template>
 
 <script>
