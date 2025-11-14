@@ -94,6 +94,17 @@
             ]
           }
         ]
+      },
+      "PublicCollection": {
+        "title": "작품 소장",
+        "items": [
+          {
+            "year":
+            "text": [
+              "인천미술은행, 인천"
+            ]
+          }
+        ]
       }
     }
   },

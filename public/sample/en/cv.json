@@ -94,6 +94,17 @@
             ]
           }
         ]
+      },
+      "PublicCollection": {
+        "title": "Public Collection",
+        "items": [
+          {
+            "year":
+            "text": [
+            "Incheon Art Bank, Korea,"
+          ]
+          }
+        ]
       }
     }
   },
