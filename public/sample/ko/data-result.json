@@ -371,7 +371,7 @@
     "collectionType": "assemble abstract",
     "title": "블록",
     "year": 2023,
-    "caption": "2023, 캔버스에 아크릴릭, 45.5 x 45.5cm",
+    "caption": "2023, 캔버스에 아크릴릭, 53 x 53cm",
     "thumb": "img/painting/Block 20231002/01.jpg",
     "imgs": [
       "img/painting/Block 20231002/01.jpg"
@@ -911,25 +911,6 @@
   },
   {
     "type": "typography",
-    "id": "book-Incheon-Qingdao Rubbing Project",
-    "collectionType": "book",
-    "title": "인천-칭다오 탁본 프로젝트",
-    "year": 2025,
-    "caption": "2025, 인디고 인쇄, 중철제본, 148 x 210mm, 56쪽",
-    "thumb": "img/typography/25-Incheon-Qingdao Rubbing Project/01.jpg",
-    "imgs": [
-      "img/typography/25-Incheon-Qingdao Rubbing Project/01.jpg",
-      "img/typography/25-Incheon-Qingdao Rubbing Project/02.jpg",
-      "img/typography/25-Incheon-Qingdao Rubbing Project/03.jpg",
-      "img/typography/25-Incheon-Qingdao Rubbing Project/04.jpg",
-      "img/typography/25-Incheon-Qingdao Rubbing Project/05.jpg",
-      "img/typography/25-Incheon-Qingdao Rubbing Project/06.jpg",
-      "img/typography/25-Incheon-Qingdao Rubbing Project/07.jpg",
-      "img/typography/25-Incheon-Qingdao Rubbing Project/08.jpg"
-    ]
-  },
-  {
-    "type": "typography",
     "id": "book-Dream Land-assemblogy",
     "collectionType": "book",
     "title": "드림랜드·조립학",
@@ -1144,33 +1125,6 @@
       "img/typography/25-Incheon-Qingdao Rubbing Project/06.jpg",
       "img/typography/25-Incheon-Qingdao Rubbing Project/07.jpg",
       "img/typography/25-Incheon-Qingdao Rubbing Project/08.jpg"
-    ]
-  },
-  {
-    "type": "news",
-    "id": "24-T incheon",
-    "collectionType": "etc",
-    "title": "아트·T 인천",
-    "year": 2024,
-    "caption": "2024년 11월 1일 - 12월 1일",
-    "info": [
-      {
-        "title": "주최·주관",
-        "text": "인천문화재단"
-      },
-      {
-        "title": "장소",
-        "text": "Cafe 태오"
-      },
-      {
-        "title": "후원",
-        "text": "인천광역시, 인천문화재단"
-      }
-    ],
-    "thumb": "img/news/24-T incheon/01.jpg",
-    "imgs": [
-      "img/news/24-T incheon/01.jpg",
-      "img/news/24-T incheon/02.jpg"
     ]
   },
   {

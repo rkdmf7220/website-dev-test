@@ -371,7 +371,7 @@
     "collectionType": "assemble abstract",
     "title": "Block",
     "year": 2023,
-    "caption": "2023, Acrylic on canvas, 45.5 x 45.5cm",
+    "caption": "2023, Acrylic on canvas, 53 x 53cm",
     "thumb": "img/painting/Block 20231002/01.jpg",
     "imgs": [
       "img/painting/Block 20231002/01.jpg"
@@ -910,25 +910,6 @@
   },
   {
     "type": "typography",
-    "id": "book-Incheon-Qingdao Rubbing Project",
-    "collectionType": "book",
-    "title": "Incheon-Qingdao Rubbing Project",
-    "year": 2025,
-    "caption": "2025, Indigo printing, Saddle Stitch, 148 x 210mm, 56page",
-    "thumb": "img/typography/25-Incheon-Qingdao Rubbing Project/01.jpg",
-    "imgs": [
-      "img/typography/25-Incheon-Qingdao Rubbing Project/01.jpg",
-      "img/typography/25-Incheon-Qingdao Rubbing Project/02.jpg",
-      "img/typography/25-Incheon-Qingdao Rubbing Project/03.jpg",
-      "img/typography/25-Incheon-Qingdao Rubbing Project/04.jpg",
-      "img/typography/25-Incheon-Qingdao Rubbing Project/05.jpg",
-      "img/typography/25-Incheon-Qingdao Rubbing Project/06.jpg",
-      "img/typography/25-Incheon-Qingdao Rubbing Project/07.jpg",
-      "img/typography/25-Incheon-Qingdao Rubbing Project/08.jpg"
-    ]
-  },
-  {
-    "type": "typography",
     "id": "book-Dream Land-assemblogy",
     "collectionType": "book",
     "title": "Dream Land·assemblogy",
@@ -1143,33 +1124,6 @@
       "img/typography/25-Incheon-Qingdao Rubbing Project/06.jpg",
       "img/typography/25-Incheon-Qingdao Rubbing Project/07.jpg",
       "img/typography/25-Incheon-Qingdao Rubbing Project/08.jpg"
-    ]
-  },
-  {
-    "type": "news",
-    "id": "24-T incheon",
-    "collectionType": "etc",
-    "title": "Art·T Incheon",
-    "year": 2024,
-    "caption": "November 1 - December 1, 2024",
-    "info": [
-      {
-        "title": "Hosted by",
-        "text": "Incheon Foundation for Arts and Culture"
-      },
-      {
-        "title": "Venue",
-        "text": "Cafe Taeo"
-      },
-      {
-        "title": "Sponsored by",
-        "text": "Incheon Metropolitan City, Incheon Foundation for Arts and Culture"
-      }
-    ],
-    "thumb": "img/news/24-T incheon/01.jpg",
-    "imgs": [
-      "img/news/24-T incheon/01.jpg",
-      "img/news/24-T incheon/02.jpg"
     ]
   },
   {
