@@ -1063,6 +1063,24 @@
   },
   {
     "type": "news",
+    "id": "25-Incheon-Art-Bank-Collection",
+    "collectionType": "Etc",
+    "title": "인천미술은행 소장",
+    "year": 2025,
+    "caption": "2025년 11월 25일",
+    "info": [
+      {
+        "title": "소장처",
+        "text": "인천미술은행"
+      }
+    ],
+    "thumb": "img/painting/Block20231002/01.jpg",
+    "imgs": [
+      "img/painting/Block20231002/01.jpg"
+    ]
+  },
+  {
+    "type": "news",
     "id": "25-Incheon-Qingdao-Rubbing-Project",
     "collectionType": "publication",
     "title": "인천-칭다오 탁본 프로젝트",
