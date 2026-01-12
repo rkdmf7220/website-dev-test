@@ -59,11 +59,7 @@
     "id": "round table",
     "name": "Round table"
   },{
-    "id": "pick",
-    "name": "Pick"
-  },{
-  },{
-    "id": "etc",
-    "name": "Etc"
+    "id": "selection",
+    "name": "Selection"
   }]
 }
