@@ -1063,14 +1063,14 @@
   {
     "type": "news",
     "id": "25-Incheon-Art-Bank-Collection",
-    "collectionType": "Etc",
-    "title": "Inchoen Art Bank Collection",
+    "collectionType": "Collection",
+    "title": "Incheon Art Bank Collection",
     "year": 2025,
     "caption": "November 25, 2025",
     "info": [
       {
         "title": "Collection",
-        "text": "Inchoen Art Bank"
+        "text": "Incheon Art Bank"
       },
       {
         "title": "Caption",
