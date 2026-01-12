@@ -53,6 +53,10 @@
     "id": "_ALL_",
     "name": "전체"
   },{
+    "id": "selection",
+    "name": "출판"
+  },{
+  },{
      "id": "publication",
     "name": "출판"
   },{
