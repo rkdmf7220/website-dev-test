@@ -56,12 +56,12 @@
      "id": "publication",
     "name": "Publication"
   },{
+    "id": "round table",
+    "name": "Round table"
+  },{
     "id": "selection",
     "name": "Selection"
   },{
-  },{
-    "id": "round table",
-    "name": "Round table"
   },{
     "id": "etc",
     "name": "Etc"
