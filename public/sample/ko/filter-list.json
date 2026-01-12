@@ -53,12 +53,12 @@
     "id": "_ALL_",
     "name": "전체"
   },{
+     "id": "publication",
+    "name": "출판"
+  },{
     "id": "selection",
     "name": "선정"
   },{
-  },{
-     "id": "publication",
-    "name": "출판"
   },{
     "id": "round table",
     "name": "라운드테이블"

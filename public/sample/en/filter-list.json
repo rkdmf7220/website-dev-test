@@ -51,14 +51,14 @@
   }],
   "news": [{
     "id": "_ALL_",
-    "name": "All",
+    "name": "All"
+  },{
+     "id": "publication",
+    "name": "Publication"
   },{
     "id": "selection",
     "name": "Selection"
   },{
-  },{
-     "id": "publication",
-    "name": "Publication"
   },{
     "id": "round table",
     "name": "Round table"
