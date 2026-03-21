@@ -1451,35 +1451,6 @@
   },
   {
     "type": "archives",
-    "id": "23-portrait",
-    "collectionType": "group exhibition",
-    "title": "Portrait",
-    "year": 2023,
-    "caption": "December 28 2022 - January 15 2023",
-    "info": [
-      {
-        "title": "Venue",
-        "text": "CICA Museum (196-30, Samdo-ro, Yangchon-eup, Gimpo-si, Gyeonggi-do, South Korea)"
-      },
-      {
-        "title": "Hosted by",
-        "text": "CICA Museum"
-      },
-      {
-        "title": "Organized by",
-        "text": "CICA Museum"
-      }
-    ],
-    "thumb":"img/archive/2023-portrait/thumb.jpg",
-    "imgs": [
-      "img/archive/2023-portrait/thumb.jpg",
-      "img/archive/2023-portrait/01.jpg",
-      "img/archive/2023-portrait/02.jpg",
-      "img/archive/2023-portrait/03.jpg"
-    ]
-  },
-  {
-    "type": "archives",
     "id": "22-A-vibrating bird-and-a-handwritten-letter",
     "collectionType": "group exhibition",
     "title": "Vibrating birds and handwritten letter",
@@ -1531,17 +1502,7 @@
         "text": "Workroom Specter (ISBN: 979-11-89356-88-0(00600))"
       }
     ],
-    "thumb": "img/archive/2022-A-vibrating bird-and-a-handwritten-letter/thumb.jpg",
-    "imgs": [
-      "img/archive/2022-A-vibrating bird-and-a-handwritten-letter/thumb.jpg",
-      "img/archive/2022-A-vibrating bird-and-a-handwritten-letter/01.jpg",
-      "img/archive/2022-A-vibrating bird-and-a-handwritten-letter/02.jpg",
-      "img/archive/2022-A-vibrating bird-and-a-handwritten-letter/03.jpg",
-      "img/archive/2022-A-vibrating bird-and-a-handwritten-letter/04.jpg",
-      "img/archive/2022-A-vibrating bird-and-a-handwritten-letter/05.jpg",
-      "img/archive/2022-A-vibrating bird-and-a-handwritten-letter/06.jpg",
-      "img/archive/2022-A-vibrating bird-and-a-handwritten-letter/07.jpg"
-    ]
+    "thumb": "img/archive/2022-A-vibrating bird-and-a-handwritten-letter/thumb.jpg"
   },
   {
     "type": "archives",
@@ -1641,40 +1602,6 @@
   },
   {
     "type": "archives",
-    "id": "21-singing-word",
-    "collectionType": "group exhibition",
-    "title": "Singing word, singing text",
-    "year": 2021,
-    "caption": "December 20 2021 - January 20 2022",
-    "info": [
-      {
-        "title": "Venue",
-        "text": "Online·Offline: 《Seoul Design Festival 2022》COEX (513, Yeongdong-daero, Gangnam-gu, Seoul, South Korea)"
-      },
-      {
-        "title": "Period",
-        "text": "Online 12.20.2021 - 1.20.2022. Offline 12.22.2021 - 12.26"
-      },
-      {
-        "title": "Organized by",
-        "text": "Korean Society of Typography, Space Oddity"
-      },
-      {
-        "title": "Supported by",
-        "text": "AG Typography Institute"
-      },
-      {
-        "title": "Curated by",
-        "text": "Hong Eunjoo, Shin Haeok"
-      }
-    ],
-    "thumb": "img/archive/2021-singing-word/thumb.jpg",
-    "imgs": [
-      "img/archive/2021-singing-word/thumb.jpg"
-    ]
-  },
-  {
-    "type": "archives",
     "id": "21-dreamland",
     "collectionType": "solo exhibition",
     "title": "Dream Land: Color",
@@ -1770,100 +1697,6 @@
       "img/archive/2021-relativity-circuit/04.jpg",
       "img/archive/2021-relativity-circuit/05.jpg",
       "img/archive/2021-relativity-circuit/06.jpg"
-    ]
-  },
-  {
-    "type": "archives",
-    "id": "21-over-the-structures",
-    "collectionType": "group exhibition",
-    "title": "Over the structures 2021",
-    "year": 2021,
-    "caption": "March 10 - March 28, 2021",
-    "info": [
-      {
-        "title": "Venue",
-        "text": "CICA Museum (196-30, Samdo-ro, Yangchon-eup, Gimpo-si, Gyeonggi-do, South Korea)"
-      },
-      {
-        "title": "Organized by",
-        "text": "CICA Museum"
-      }
-    ],
-    "thumb": "img/archive/2021-over-the-structures/thumb.jpg",
-    "imgs": [
-      "img/archive/2021-over-the-structures/thumb.jpg",
-      "img/archive/2021-over-the-structures/01.jpg",
-      "img/archive/2021-over-the-structures/02.jpg",
-      "img/archive/2021-over-the-structures/03.jpg",
-      "img/archive/2021-over-the-structures/04.jpg",
-      "img/archive/2021-over-the-structures/05.jpg"
-    ]
-  },
-  {
-    "type": "archives",
-    "id": "20-contactless",
-    "collectionType": "group exhibition",
-    "title": "Contactless",
-    "year": 2020,
-    "caption": "December 8, 2020 - February 28",
-    "info": [
-      {
-        "title": "Venue",
-        "text": "Online·Offline:《Typojanchi saisai 2020-2021: International Typography Biennale》Culture Station Seoul 284 RTO (1, Tongil-ro, Jung-gu, Seoul, South Korea)"
-      },
-      {
-        "title": "Period",
-        "text": "Online 12.8.2020. - 2.28.2021. Offline 12.14.2020. - 12.20."
-      },
-      {
-        "title": "Organized by",
-        "text": "Korean Society of Typography"
-      },
-      {
-        "title": "Cooperated by",
-        "text": "Korea Craft & Design Foundation, Organizing Committee of International Typography Biennale, CAVA LIFE, CA BOOKS,SAMWON PAPER"
-      },
-      {
-        "title": "Curated by",
-        "text": "Hong Eunjoo, Shin Haeok"
-      }
-    ],
-    "thumb": "img/archive/2020-contactless/thumb.jpg",
-    "imgs": [
-      "img/archive/2020-contactless/thumb.jpg",
-      "img/archive/2020-contactless/07.jpg",
-      "img/archive/2020-contactless/08.jpg",
-      "img/archive/2020-contactless/02.jpeg",
-      "img/archive/2020-contactless/04.jpeg",
-      "img/archive/2020-contactless/05.png",
-      "img/archive/2020-contactless/03.jpeg"
-    ]
-  },
-  {
-    "type": "archives",
-    "id": "18-young-artist",
-    "collectionType": "group exhibition",
-    "title": "YOUNG ARTIST CONTEST",
-    "year": 2018,
-    "caption": "August 1 - August 24, 2018",
-    "info": [
-      {
-        "title": "Venue",
-        "text": "Gallery We (15-1, Dosan-daero 56-gil, Gangnam-gu, Seoul, South Korea)"
-      },
-      {
-        "title": "Organized by",
-        "text": "IYAA(International Young Artist Association), Gallery We"
-      },
-      {
-        "title": "Supported by",
-        "text": "Korean Fine Arts Association, Seoul Cultural Public Relations Institution "
-      }
-    ],
-    "thumb": "img/archive/2018-young-artist/thumb.jpg",
-    "imgs": [
-      "img/archive/2018-young-artist/thumb.jpg",
-      "img/archive/2018-young-artist/02.jpg"
     ]
   }
 ]

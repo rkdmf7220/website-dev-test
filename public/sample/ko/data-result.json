@@ -1451,31 +1451,6 @@
   },
   {
     "type": "archives",
-    "id": "23-portrait",
-    "collectionType": "group exhibition",
-    "title": "Portrait",
-    "year": 2023,
-    "caption": "2022년 12월 28일 - 2023년 1월 15일",
-    "info": [
-      {
-        "title": "장소",
-        "text": "CICA 미술관 (경기 김포시 양촌읍 삼도로 196-30)"
-      },
-      {
-        "title": "주최·주관",
-        "text": "CICA 미술관"
-      }
-    ],
-    "thumb": "img/archive/2023-portrait/thumb.jpg",
-    "imgs": [
-      "img/archive/2023-portrait/thumb.jpg",
-      "img/archive/2023-portrait/01.jpg",
-      "img/archive/2023-portrait/02.jpg",
-      "img/archive/2023-portrait/03.jpg"
-    ]
-  },
-  {
-    "type": "archives",
     "id": "22-A-vibrating bird-and-a-handwritten-letter",
     "collectionType": "group exhibition",
     "title": "진동새와 손편지",
@@ -1523,17 +1498,7 @@
         "text": "작업실유령 ISBN: 979-11-89356-88-0(00600)"
       }
     ],
-    "thumb": "img/archive/2022-A-vibrating bird-and-a-handwritten-letter/thumb.jpg",
-    "imgs": [
-      "img/archive/2022-A-vibrating bird-and-a-handwritten-letter/thumb.jpg",
-      "img/archive/2022-A-vibrating bird-and-a-handwritten-letter/01.jpg",
-      "img/archive/2022-A-vibrating bird-and-a-handwritten-letter/02.jpg",
-      "img/archive/2022-A-vibrating bird-and-a-handwritten-letter/03.jpg",
-      "img/archive/2022-A-vibrating bird-and-a-handwritten-letter/04.jpg",
-      "img/archive/2022-A-vibrating bird-and-a-handwritten-letter/05.jpg",
-      "img/archive/2022-A-vibrating bird-and-a-handwritten-letter/06.jpg",
-      "img/archive/2022-A-vibrating bird-and-a-handwritten-letter/07.jpg"
-    ]
+    "thumb": "img/archive/2022-A-vibrating bird-and-a-handwritten-letter/thumb.jpg"
   },
   {
     "type": "archives",
@@ -1621,40 +1586,6 @@
       "img/archive/2022-assemblogy/03.jpg",
       "img/painting/harmony/03.jpg",
       "img/archive/2022-assemblogy/04.jpg"
-    ]
-  },
-  {
-    "type": "archives",
-    "id": "21-singing-word",
-    "collectionType": "group exhibition",
-    "title": "노래하는 말, 노래하는 글",
-    "year": 2021,
-    "caption": "2021년 12월 20일 - 2022년 1월 20일",
-    "info": [
-      {
-        "title": "장소",
-        "text": "온라인·오프라인:《서울디자인페스티벌 2021》코엑스 (서울 강남구 영동대로 513)"
-      },
-      {
-        "title": "기간",
-        "text": "온라인 2021.12.20. - 2022.1.20. 오프라인 2021.12.22. - 12.26."
-      },
-      {
-        "title": "주최·주관",
-        "text": "한국타이포그라피학회, 스페이스 오디티"
-      },
-      {
-        "title": "협찬",
-        "text": "AG 타이포그라피연구소"
-      },
-      {
-        "title": "기획",
-        "text": "홍은주, 신해옥"
-      }
-    ],
-    "thumb": "img/archive/2021-singing-word/thumb.jpg",
-    "imgs": [
-      "img/archive/2021-singing-word/thumb.jpg"
     ]
   },
   {
@@ -1754,100 +1685,6 @@
       "img/archive/2021-relativity-circuit/04.jpg",
       "img/archive/2021-relativity-circuit/05.jpg",
       "img/archive/2021-relativity-circuit/06.jpg"
-    ]
-  },
-  {
-    "type": "archives",
-    "id": "21-over-the-structures",
-    "collectionType": "group exhibition",
-    "title": "Over the structures 2021",
-    "year": 2021,
-    "caption": "2021년 3월 10일 - 3월 28일",
-    "info": [
-      {
-        "title": "장소",
-        "text": "CICA 미술관 (경기 김포시 양촌읍 삼도로 196-30)"
-      },
-      {
-        "title": "주최·주관",
-        "text": "CICA 미술관"
-      }
-    ],
-    "thumb": "img/archive/2021-over-the-structures/thumb.jpg",
-    "imgs": [
-      "img/archive/2021-over-the-structures/thumb.jpg",
-      "img/archive/2021-over-the-structures/01.jpg",
-      "img/archive/2021-over-the-structures/02.jpg",
-      "img/archive/2021-over-the-structures/03.jpg",
-      "img/archive/2021-over-the-structures/04.jpg",
-      "img/archive/2021-over-the-structures/05.jpg"
-    ]
-  },
-  {
-    "type": "archives",
-    "id": "20-contactless",
-    "collectionType": "group exhibition",
-    "title": "만질 수 없는",
-    "year": 2020,
-    "caption": "2020년 12월 8일 - 2021년 2월 28일",
-    "info": [
-      {
-        "title": "장소",
-        "text": "온라인·오프라인:《타이포잔치 사이사이 2020-2021: 국제 타이포그래피 비엔날레》문화역서울284 (서울 중구 통일로 1)"
-      },
-      {
-        "title": "기간",
-        "text": "온라인 2020.12.8. - 2021.2.28. 오프라인 2020.12.14. - 12.20."
-      },
-      {
-        "title": "주최·주관",
-        "text": "한국타이포그라피학회"
-      },
-      {
-        "title": "협력",
-        "text": "한국공예·디자인문화진흥원, 국제타이포그래피비엔날레조직위원회, CAVA LIFE, CA BOOKS, 삼원특수지"
-      },
-      {
-        "title": "기획",
-        "text": "홍은주, 신해옥"
-      }
-    ],
-    "thumb": "img/archive/2020-contactless/thumb.jpg",
-    "imgs": [
-      "img/archive/2020-contactless/thumb.jpg",
-      "img/archive/2020-contactless/07.jpg",
-      "img/archive/2020-contactless/08.jpg",
-      "img/archive/2020-contactless/02.jpeg",
-      "img/archive/2020-contactless/04.jpeg",
-      "img/archive/2020-contactless/05.png",
-      "img/archive/2020-contactless/03.jpeg"
-    ]
-  },
-  {
-    "type": "archives",
-    "id": "18-young-artist",
-    "collectionType": "group exhibition",
-    "title": "YOUNG ARTIST CONTEST",
-    "year": 2018,
-    "caption": "2018년 8월 1일 - 8월 24일",
-    "info": [
-      {
-        "title": "장소",
-        "text": "갤러리위 (서울 강남구 도산대로56길 15-1)"
-      },
-      {
-        "title": "주최·주관",
-        "text": "IYAA, 갤러리위"
-      },
-      {
-        "title": "후원",
-        "text": "한국미술협회, 서울문화홍보원"
-      }
-    ],
-    "thumb": "img/archive/2018-young-artist/thumb.jpg",
-    "imgs": [
-      "img/archive/2018-young-artist/thumb.jpg",
-      "img/archive/2018-young-artist/02.jpg"
     ]
   }
 ]
