@@ -1,16 +1,16 @@
 {
   "works": [{
     "id": "_ALL_",
-    "name": "전체"
+    "name": "All"
   },{
     "id": "assembly",
-    "name": "조립"
+    "name": "Assembly"
   },{
     "id": "assemble abstract",
-    "name": "조립 추상"
+    "name": "Assemble abstract"
   },{
     "id": "assemble sculpture",
-    "name": "조립 조각"
+    "name": "Assemble sculpture"
   }],
   "sculpture": [{
     "id": "_ALL_",
