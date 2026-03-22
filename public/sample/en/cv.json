@@ -8,7 +8,7 @@
           {
             "year": null,
             "text": [
-              "The canvas is defined as a fundamental module, codifying its structural form. Organic structures emerge through recursive cycles of assembly and disassembly, interrogating the image’s mode of existence. By reconfiguring non-linear spatiotemporality, the work maps the trajectories of the image’s response to its physical environment."
+              "The canvas is defined as a fundamental module, codifying its structural form. Through iterative assembly and disassembly, non-linear spatiotemporality is reconfigured, mapping the trajectories of the image’s response to the physical environment."
             ]
           }
         ]
@@ -199,6 +199,28 @@
           }
         ]
       },
+      "Publication": {
+        "title": "Publications",
+        "items": [
+          {
+            "year": "2023",
+            "text": [
+              "Dream Land·assemblogy, Independent Publishing"
+            ]
+          }
+        ]
+      },
+      "PublicCollection": {
+        "title": "Public Collections",
+        "items": [
+          {
+              "year": "2025",
+              "text": [
+              "Incheon Art Bank, Korea"
+            ]
+          }
+        ]
+      },
       "division": {
         "title": "Activities",
         "items": [
@@ -224,28 +246,6 @@
             "year": "2019",
             "text": [
               "AhnGraphics Publishers | Designer (intern)"
-            ]
-          }
-        ]
-      },
-      "Publication": {
-        "title": "Publications",
-        "items": [
-          {
-            "year": "2023",
-            "text": [
-              "Dream Land·assemblogy, Independent Publishing"
-            ]
-          }
-        ]
-      },
-      "PublicCollection": {
-        "title": "Public Collections",
-        "items": [
-          {
-              "year": "2025",
-              "text": [
-              "Incheon Art Bank, Korea"
             ]
           }
         ]
