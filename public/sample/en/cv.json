@@ -170,8 +170,14 @@
         ]
       },
       "project": {
-        "title": "Projects",
+        "title": "Curatorial Projects",
         "items": [
+          {
+            "year": "2026",
+            "text": [
+              "Incheon Art Road (Incheon Spectacle, Incheon Art Platform, Incheon)"
+            ]
+          },
           {
             "year": "2025",
             "text": [
