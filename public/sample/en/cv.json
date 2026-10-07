@@ -94,30 +94,30 @@
       }
     }
   },
-      "prizeArchive": {
-        "title": "Awards and Grants",
-        "items": [
-          {
-            "year": "2024",
-            "text": [
-              "Incheon Foundation For Arts & Culture grant(IFAC)"
-            ]
-          },
-          {
-            "year": "2023",
-            "text": [
-              "Incheon Foundation For Arts & Culture grant(IFAC)",
-              "Incheon Foundation For Arts & Culture, Space ilbu grant(IFAC)"
-            ]
-          },
-          {
-            "year": "2021",
-            "text": [
-              "Gwangmyeong Cultural Foundation grant(GMCF)"
-            ]
-          }
+  "prizeArchive": {
+    "title": "Awards and Grants",
+    "items": [
+      {
+        "year": "2024",
+        "text": [
+          "Incheon Foundation For Arts & Culture grant(IFAC)"
         ]
       },
+      {
+        "year": "2023",
+        "text": [
+          "Incheon Foundation For Arts & Culture grant(IFAC)",
+          "Incheon Foundation For Arts & Culture, Space ilbu grant(IFAC)"
+        ]
+      },
+      {
+        "year": "2021",
+        "text": [
+          "Gwangmyeong Cultural Foundation grant(GMCF)"
+        ]
+      }
+    ]
+  },
   "fullCv": {
     "name": "Full CV",
     "list": {
