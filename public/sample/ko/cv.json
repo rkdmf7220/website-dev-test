@@ -82,16 +82,6 @@
           }
         ]
       },
-      "PublicCollection": {
-        "title": "작품 소장",
-        "items": [
-          {
-            "text": [
-              "인천미술은행"
-            ]
-          }
-        ]
-      },
       "prizeArchive": {
         "title": "수상 및 선정",
         "items": [
@@ -112,6 +102,16 @@
             "year": "2021",
             "text": [
               "청년예술가지원사업 선정, 광명문화재단(GMCF)"
+            ]
+          }
+        ]
+      },
+      "PublicCollection": {
+        "title": "작품 소장",
+        "items": [
+          {
+            "text": [
+              "인천미술은행"
             ]
           }
         ]
@@ -214,17 +214,6 @@
           }
         ]
       },
-      "PublicCollection": {
-        "title": "작품 소장",
-        "items": [
-          {
-            "year": "2025",
-            "text": [
-              "인천미술은행"
-            ]
-          }
-        ]
-      },
       "prizeArchive": {
         "title": "수상 및 선정",
         "items": [
@@ -245,6 +234,17 @@
             "year": "2021",
             "text": [
               "청년예술가지원사업 선정, 광명문화재단(GMCF)"
+            ]
+          }
+        ]
+      },
+      "PublicCollection": {
+        "title": "작품 소장",
+        "items": [
+          {
+            "year": "2025",
+            "text": [
+              "인천미술은행"
             ]
           }
         ]

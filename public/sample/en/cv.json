@@ -82,6 +82,30 @@
           }
         ]
       },
+      "prizeArchive": {
+        "title": "Awards and Grants",
+        "items": [
+          {
+            "year": "2024",
+            "text": [
+              "Incheon Foundation For Arts & Culture grant(IFAC)"
+            ]
+          },
+          {
+            "year": "2023",
+            "text": [
+              "Incheon Foundation For Arts & Culture grant(IFAC)",
+              "Incheon Foundation For Arts & Culture, Space ilbu grant(IFAC)"
+            ]
+          },
+          {
+            "year": "2021",
+            "text": [
+              "Gwangmyeong Cultural Foundation grant(GMCF)"
+            ]
+          }
+        ]
+      },
       "PublicCollection": {
         "title": "Public Collections",
         "items": [
@@ -91,30 +115,8 @@
             ]
           }
         ]
-      },
-  "prizeArchive": {
-    "title": "Awards and Grants",
-    "items": [
-      {
-        "year": "2024",
-        "text": [
-          "Incheon Foundation For Arts & Culture grant(IFAC)"
-        ]
-      },
-      {
-        "year": "2023",
-        "text": [
-          "Incheon Foundation For Arts & Culture grant(IFAC)",
-          "Incheon Foundation For Arts & Culture, Space ilbu grant(IFAC)"
-        ]
-      },
-      {
-        "year": "2021",
-        "text": [
-          "Gwangmyeong Cultural Foundation grant(GMCF)"
-        ]
       }
-    ]
+    }
   },
   "fullCv": {
     "name": "Full CV",
@@ -212,17 +214,6 @@
           }
         ]
       },
-      "PublicCollection": {
-        "title": "Public Collections",
-        "items": [
-          {
-            "year": "2025",
-            "text": [
-              "Incheon Art Bank, Korea"
-            ]
-          }
-        ]
-      },
       "prizeArchive": {
         "title": "Awards and Grants",
         "items": [
@@ -243,6 +234,17 @@
             "year": "2021",
             "text": [
               "Gwangmyeong Cultural Foundation grant(GMCF)"
+            ]
+          }
+        ]
+      },
+      "PublicCollection": {
+        "title": "Public Collections",
+        "items": [
+          {
+            "year": "2025",
+            "text": [
+              "Incheon Art Bank, Korea"
             ]
           }
         ]
