@@ -59,8 +59,12 @@
     "id": "solo exhibition",
     "name": "개인전"
   },{
+  },{
     "id": "group exhibition",
     "name": "단체전"
+  },{
+    "id": "project",
+    "name": "프로젝트"
   }],
   "news": [{
     "id": "_ALL_",

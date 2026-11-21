@@ -60,7 +60,10 @@
     "name": "Solo exhibitions"
   },{
     "id": "group exhibition",
-    "name": "Group exhibitions"
+    "name": "group exhibitions"
+  },{
+    "id": "project",
+    "name": "projects"
   }],
   "news": [{
     "id": "_ALL_",
