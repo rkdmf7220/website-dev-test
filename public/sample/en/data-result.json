@@ -1172,32 +1172,32 @@
     "info": [
       {
         "title": "Venue",
-        "text": "Incheon Art Platform, Shhh, Project space kosmos, Buyeon, Gongso 등 인천 25개의 공간"
+        "text": "25 venues in Incheon, including Incheon Art Platform, Shhh, Project space kosmos, Buyeon and Gongso"
       },
       {
-        "title": "주최·주관",
-        "text": "인천아트플랫폼"
+        "title": "Organized by",
+        "text": "Incheon Art Platform"
       },
       {
-        "title": "기획",
-        "text": "손원혁, 인천스펙타클"
+        "title": "Curated by",
+        "text": "Incheon Art Platform, Incheon Spectacle, Wonhyuk Son"
       },
       {
-        "title": "진행",
-        "text": "손원혁, 인천스펙타클"
+        "title": "Coordinated by",
+        "text": "Incheon Spectacle, Wonhyuk Son"
       },
       {
-        "title": "인천아트워크(도슨트)",
-        "text": "손원혁"
+        "title": "Public Program",
+        "text": "Incheon Art Walk (docent) Wonhyuk Son"
       },
       {
-        "title": "소개",
-        "text": "지역연계 프로젝트로 〈인천아트로드〉는 시민들이 직접 문화예술공간을 찾아가 인천 미술 생태계를 경험하도록 마련한 예술 탐방 프로그램입니다."
+        "title": "Introduction",
+        "text": "As a community-based project, Incheon Art Road is an art tour program that invites citizens to visit cultural and art spaces in person and experience Incheon's visual art ecosystem firsthand."
       },
       {
         "type": "PDF",
         "link": "pdf/Incheonartroad Project.pdf",
-        "fileName": "인천아트로드 리플렛.pdf"
+        "fileName": "Inchoen Art Road Leaflet.pdf"
       }
     ],
     "thumb": "img/archive/2026-Incheonartroad-Project/thumb.jpg",
