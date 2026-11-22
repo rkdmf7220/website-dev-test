@@ -949,6 +949,68 @@
   },
   {
     "type": "news",
+    "id": "25-Incheon-Qingdao-Rubbing-Project",
+    "collectionType": "publication",
+    "title": "인천-칭다오 탁본 프로젝트",
+    "year": 2025,
+    "caption": "2025년 8월",
+    "info": [
+      {
+        "title": "기획, 탁본",
+        "text": "공동"
+      },
+      {
+        "title": "진행",
+        "text": "엄기성"
+      },
+      {
+        "title": "디자인",
+        "text": "손원혁"
+      },
+      {
+        "title": "사진",
+        "text": "박민아"
+      },
+      {
+        "title": "번역",
+        "text": "남가현"
+      },
+      {
+        "title": "도움",
+        "text": "왕펑, 인천스펙타클"
+      },
+      {
+        "title": "인쇄",
+        "text": "태산인디고"
+      },
+      {
+        "title": "후원",
+        "text": "인천광역시, 인천문화재단, 시작공간일부"
+      },
+      {
+        "title": "소개",
+        "text": "인천문화재단 한중 청년 공동 도시기록 <너의 도시, 나의도시> 프로젝트의 일환으로 인천과 칭다오 도시의 탁본을 엮은 책자입니다."
+      },
+      {
+        "type": "PDF",
+        "link": "pdf/Incheon-Qingdao Rubbing Project.pdf",
+        "fileName": "인천-칭다오 탁본 프로젝트.pdf"
+      }
+    ],
+    "thumb": "img/news/25-Incheon-Qingdao-Rubbing-Project/01.jpg",
+    "imgs": [
+      "img/news/25-Incheon-Qingdao-Rubbing-Project/01.jpg",
+      "img/news/25-Incheon-Qingdao-Rubbing-Project/02.jpg",
+      "img/news/25-Incheon-Qingdao-Rubbing-Project/03.jpg",
+      "img/news/25-Incheon-Qingdao-Rubbing-Project/04.jpg",
+      "img/news/25-Incheon-Qingdao-Rubbing-Project/05.jpg",
+      "img/news/25-Incheon-Qingdao-Rubbing-Project/06.jpg",
+      "img/news/25-Incheon-Qingdao-Rubbing-Project/07.jpg",
+      "img/news/25-Incheon-Qingdao-Rubbing-Project/08.jpg"
+    ]
+  },
+  {
+    "type": "news",
     "id": "23-Dream-Land-assemblogy",
     "collectionType": "publication",
     "title": "드림랜드·조립학",
@@ -1123,7 +1185,7 @@
       },
       {
         "title": "부대 프로그램",
-        "text": "인천아트워크(도슨트) 손원혁"
+        "text": "인천아트워크 손원혁"
       },
       {
         "title": "소개",
@@ -1144,68 +1206,6 @@
       "img/archive/2026-Incheonartroad-Project/04.jpg",
       "img/archive/2026-Incheonartroad-Project/05.jpg",
       "img/archive/2026-Incheonartroad-Project/06.jpg"
-    ]
-  },
-  {
-    "type": "archives",
-    "id": "25-Incheon-Qingdao-Rubbing-Project",
-    "collectionType": "project",
-    "title": "인천-칭다오 탁본 프로젝트",
-    "year": 2025,
-    "caption": "2025년 8월",
-    "info": [
-      {
-        "title": "기획, 탁본",
-        "text": "공동"
-      },
-      {
-        "title": "진행",
-        "text": "엄기성"
-      },
-      {
-        "title": "디자인",
-        "text": "손원혁"
-      },
-      {
-        "title": "사진",
-        "text": "박민아"
-      },
-      {
-        "title": "번역",
-        "text": "남가현"
-      },
-      {
-        "title": "도움",
-        "text": "왕펑, 인천스펙타클"
-      },
-      {
-        "title": "인쇄",
-        "text": "태산인디고"
-      },
-      {
-        "title": "후원",
-        "text": "인천광역시, 인천문화재단, 시작공간일부"
-      },
-      {
-        "title": "소개",
-        "text": "인천문화재단 한중 청년 공동 도시기록 <너의 도시, 나의도시> 프로젝트의 일환으로 인천과 칭다오 도시의 탁본을 엮은 책자입니다."
-      },
-      {
-        "type": "PDF",
-        "link": "pdf/Incheon-Qingdao Rubbing Project.pdf",
-        "fileName": "인천-칭다오 탁본 프로젝트.pdf"
-      }
-    ],
-    "thumb": "img/news/25-Incheon-Qingdao-Rubbing-Project/01.jpg",
-    "imgs": [
-      "img/news/25-Incheon-Qingdao-Rubbing-Project/01.jpg",
-      "img/news/25-Incheon-Qingdao-Rubbing-Project/02.jpg",
-      "img/news/25-Incheon-Qingdao-Rubbing-Project/03.jpg",
-      "img/news/25-Incheon-Qingdao-Rubbing-Project/04.jpg",
-      "img/news/25-Incheon-Qingdao-Rubbing-Project/05.jpg",
-      "img/news/25-Incheon-Qingdao-Rubbing-Project/06.jpg",
-      "img/news/25-Incheon-Qingdao-Rubbing-Project/07.jpg",
-      "img/news/25-Incheon-Qingdao-Rubbing-Project/08.jpg"
     ]
   },
   {
