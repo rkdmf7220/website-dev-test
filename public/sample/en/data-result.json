@@ -1164,6 +1164,50 @@
   },
   {
     "type": "archives",
+    "id": "2026-Open-storage",
+    "collectionType": "group exhibition",
+    "title": "2026 Incheon Art Bank New Acquisitions Exhbition Open storage",
+    "year": 2026,
+    "caption": "November 30 - December 18, 2026",
+    "info": [
+      {
+        "title": "Venue",
+        "text": "Incheon Art Bank Open Storage, 4th Floor of the Library, Incheon Campus, Gyeongin National University of Education"
+      },
+      {
+        "title": "Organized by",
+        "text": "Incheon Foundation For Arts & Culture"
+      },
+      {
+        "title": "Coordinated by",
+        "text": "Hanbyeoul Kim"
+      },
+      {
+        "title": "Public Program",
+        "text": "Incheon Art Walk Wonhyuk Son"
+      },
+      {
+        "title": "Graphic Design by",
+        "text": "000"
+      },
+      {
+        "title": "Photo by",
+        "text": "000"
+      }
+    ],
+    "thumb": "img/archive/2026-Incheonartroad-Project/thumb.jpg",
+    "imgs": [
+      "img/archive/2026-Incheonartroad-Project/thumb.jpg",
+      "img/archive/2026-Incheonartroad-Project/01.jpg",
+      "img/archive/2026-Incheonartroad-Project/02.jpg",
+      "img/archive/2026-Incheonartroad-Project/03.jpg",
+      "img/archive/2026-Incheonartroad-Project/04.jpg",
+      "img/archive/2026-Incheonartroad-Project/05.jpg",
+      "img/archive/2026-Incheonartroad-Project/06.jpg"
+    ]
+  },
+  {
+    "type": "archives",
     "id": "2026-Incheonartroad-Project",
     "collectionType": "project",
     "title": "Inchoen Art Road",

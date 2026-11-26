@@ -39,6 +39,12 @@
         "title": "Group Exhibitions",
         "items": [
           {
+            "year": "2026",
+            "text": [
+              "Open Storage, Incheon Art Bank Open Storage, 4th Floor of the Library, Incheon Campus, Gyeongin National University of Education, Incheon, Korea"
+            ]
+          },
+          {
             "year": "2024",
             "text": [
               "WESS Exhibition / Publication daPalm, Seoul, Korea",
@@ -176,6 +182,12 @@
       "groupExhibition": {
         "title": "Group Exhibitions (*catalog)",
         "items": [
+          {
+            "year": "2026",
+            "text": [
+              "Open Storage, Incheon Art Bank Open Storage, 4th Floor of the Library, Incheon Campus, Gyeongin National University of Education, Incheon, Korea"
+            ]
+          },
           {
             "year": "2024",
             "text": [

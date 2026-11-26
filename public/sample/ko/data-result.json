@@ -1161,6 +1161,40 @@
   },
   {
     "type": "archives",
+    "id": "2026-Open-storage",
+    "collectionType": "group exhibition",
+    "title": "2026 인천미술은행 신소장품전 오픈 스토리지",
+    "year": 2026,
+    "caption": "2026년 11월 30일 - 12월 18일",
+    "info": [
+      {
+        "title": "장소",
+        "text": "경인교육대학교 인천캠퍼스 도서관 4층 인천미술은행 개방형 수장고"
+      },
+      {
+        "title": "주최·주관",
+        "text": "인천문화재단"
+      },
+      {
+        "title": "진행",
+        "text": "김한별"
+      },
+      {
+        "title": "디자인",
+        "text": "ㅇㅇㅇ"
+      },
+      {
+        "title": "사진",
+        "text": "ㅇㅇㅇ"
+      }
+    ],
+    "thumb": "img/archive/2026-Incheonartroad-Project/thumb.jpg",
+    "imgs": [
+      "img/archive/2026-Open-storage/thumb.jpg"
+    ]
+  },
+  {
+    "type": "archives",
     "id": "2026-Incheonartroad-Project",
     "collectionType": "project",
     "title": "인천아트로드",
