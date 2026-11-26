@@ -66,70 +66,6 @@
           }
         ]
       },
-      "project": {
-        "title": "Curatorial Projects",
-        "items": [
-          {
-            "year": "2026",
-            "text": [
-              "Incheon Art Road, Incheon Art Platform, Incheon (co-curated)"
-            ]
-          },
-          {
-            "year": "2025",
-            "text": [
-              "Incheon-Qingdao Rubbing Project, Incheon·Qingdao (co-curated)"
-            ]
-          }
-        ]
-      },
-      "Publication": {
-        "title": "Publications",
-        "items": [
-          {
-            "year": "2023",
-            "text": [
-              "Dream Land·assemblogy, Independent Publishing"
-            ]
-          }
-        ]
-      },
-      "prizeArchive": {
-        "title": "Awards and Grants",
-        "items": [
-          {
-            "year": "2026",
-            "text": [
-              "International Exchange and Cooperation Program, Singapore (IFAC)"
-            ]
-          },
-          {
-            "year": "2025",
-            "text": [
-              "International Exchange and Cooperation Program, Qingdao, China (IFAC)"
-            ]
-          },
-          {
-            "year": "2024",
-            "text": [
-              "Incheon Foundation For Arts & Culture grant (IFAC)"
-            ]
-          },
-          {
-            "year": "2023",
-            "text": [
-              "Incheon Foundation For Arts & Culture grant (IFAC)",
-              "Incheon Foundation For Arts & Culture, Space ilbu grant (IFAC)"
-            ]
-          },
-          {
-            "year": "2021",
-            "text": [
-              "Gwangmyeong Cultural Foundation grant (GMCF)"
-            ]
-          }
-        ]
-      },
       "PublicCollection": {
         "title": "Public Collections",
         "items": [
@@ -270,6 +206,12 @@
             "text": [
               "Incheon Foundation For Arts & Culture grant (IFAC)",
               "Incheon Foundation For Arts & Culture, Space ilbu grant (IFAC)"
+            ]
+          },
+          {
+            "year": "2022",
+            "text": [
+              "Young Korean Artists Solo Show Series, CICA Museum"
             ]
           },
           {
